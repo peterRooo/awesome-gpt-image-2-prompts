@@ -2158,9 +2158,9 @@ Theme: {topic}
 
 </details>
 
-## 数据文件
+## 图片资源
 
-同一批 100 条提示词也整理成结构化 JSON：[`data/prompts.json`](data/prompts.json)。图片资源存放在 [`images/`](images/)。
+所有案例图片资源存放在 [`images/`](images/)。
 
 ## 更多内容
 

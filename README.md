@@ -2158,9 +2158,9 @@ Author: @SRKDAN<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [https://x
 
 </details>
 
-## Data
+## Images
 
-The same 100 selected entries are available as structured JSON in [`data/prompts.json`](data/prompts.json). Images are stored under [`images/`](images/).
+All example images are stored under [`images/`](images/).
 
 ## More
 
