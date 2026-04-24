@@ -4,14 +4,14 @@ Want more GPT Image 2 prompts and examples? Visit [gptimagelab.com](https://gpti
 
 [中文版本](README.zh-CN.md)
 
-A curated sample of 100 GPT Image 2 prompts and reusable templates, randomly selected from the current GPT Image Lab prompt collection. Inspired by community-style awesome lists, this repository keeps the prompts easy to copy, remix, and attribute.
+A curated sample of 100 GPT Image 2 prompts and reusable templates, randomly selected from the current GPT Image Lab prompt collection. Images are shown directly; the copy-ready prompt text is folded under each example.
 
 ## Highlights
 
-- 100 copy-ready prompts and templates
+- 100 visual prompt examples with images included in the repository
+- Prompt text is collapsible to keep browsing image-first
 - Mixed English, Chinese, and Japanese prompt examples
 - Categories cover portraits, posters, infographics, UI mockups, 3D scenes, packaging, and more
-- Source attribution is preserved when available
 
 ## Prompt Index
 
@@ -34,8 +34,11 @@ A curated sample of 100 GPT Image 2 prompts and reusable templates, randomly sel
 
 ## Portrait & Photography
 
-<details>
-<summary><strong>1. 白色影棚网球编辑人像</strong> · Prompt · Chinese</summary>
+### 1. 白色影棚网球编辑人像
+
+![白色影棚网球编辑人像](images/001-raw_20260423_gptimg2-ai_prompt_052.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 专业影楼时尚摄影，纯白无缝天幕摄影工作室超清高端数码编辑人像，巨量柔光八箱主光+大柔光箱补光打造完美均匀照明，柔和雕刻阴影，Vogue级极简高级时尚审美，平眼拍摄，3/4全身拍摄，20岁出头的韩国偶像型年轻女性，超写实精致精致的韩式五官，微微上翘的杏仁形狐狸眼，自然双眼皮，小尖下巴轮廓，完美而逼真的瓷质皮肤，带有凉爽的象牙色底色，完全自然的锻炼后免妆外观，脸颊上柔和自然的红晕，微汗带来的微妙水润肌肤光泽，自然的尘土玫瑰色嘴唇微微分开，鼻子和脸颊上微妙的自然雀斑，可见微妙的皮肤纹理，毛孔和微皮肤细节，自然波浪形的深棕色长发略显凌乱，逼真的松散发丝，穿着白色合身网球马球或短袖上衣和高腰白色运动裙，自然地站在纯白色的摄影棚中央，手握白色网球拍，随意搭在肩上，另一只手放松在侧或轻放在臀部，单腿微前倾，姿势自然自信，直视观看者的视线，表情平静、自信、清新，纯柔和的专业摄影棚灯光，大扩散光源，无瑕均匀的照明，柔和的雕刻阴影，自然地勾勒出身材，干净高调的极简美学，超干净的高端数码摄影，极其锐利而柔和的皮肤渲染自然露水光泽，无胶片颗粒，无噪音，无光晕，无晕影，完美的中性色彩分级，正宗韩国偶像工作室编辑美学，可见逼真的网球拍纹理，带有雀斑和微妙汗水光泽的自然皮肤纹理，无塑料皮肤，无数字过度锐化，无喷枪，无水印，无文字 --ar 9:16
@@ -45,8 +48,11 @@ Author: @BubbleBrain<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [http
 
 </details>
 
-<details>
-<summary><strong>24. Whispers of Soft Beauty by the Window</strong> · Prompt · English</summary>
+### 24. Whispers of Soft Beauty by the Window
+
+![Whispers of Soft Beauty by the Window](images/024-raw_20260423_promptgather_prompt_073.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure  Scene: indoor window-side setting, white sheer curtains, soft natural light filtering in, quiet and private space with a subtle lived-in feel  Pose: sitting by the window or on the edge of a bed, body slightly leaning forward; one hand gently supporting behind, the other naturally relaxed and hanging down; legs slightly crossed, posture relaxed and natural  Expression: lightly looking toward the camera, with a faint, almost imperceptible smile; restrained emotion yet subtly आकर्षive  Style: low contrast, shot on a Nikon DSLR  Details: realistic skin texture, delicate but not over-smoothed, slightly messy natural hair, straight-out-of-camera feel  Atmosphere: quiet, intimate, slightly ambiguous, everyday intimacy  Framing: medium close-up, waist-up composition, slight handheld feeling, shallow depth of field with background blur  Quality: high-definition, photorealistic, low-light ambiance, authentic photography texture  Aspect ratio: 2:3
@@ -56,8 +62,11 @@ Author: @BubbleBrain<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>25. Golden Hour Street Portrait</strong> · Prompt · English</summary>
+### 25. Golden Hour Street Portrait
+
+![Golden Hour Street Portrait](images/025-raw_20260423_x_prompt_014.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Ricoh GR3 Negative film, early 20s Chinese beautiful internet celebrity, naturally attractive and elegant, subtle sensuality without explicit exposure, soft confident gaze, gentle and slightly teasing smile long wavy black hair with soft bangs, natural movement, realistic skin texture with soft glow outfit: fitted crop top with moderate neckline (no excessive exposure) + high-waisted mini skirt, clean silhouette, emphasizing waistline and body proportion in a tasteful way, 1990s Japanese street fashion inspired pose: standing casually on an urban street, relaxed posture, slight body curve, one hand lightly touching hair or resting near waist, natural candid stance scene: quiet Japanese city street at golden hour, warm sunlight, soft shadows, everyday urban elements (vending machine, street signs, sidewalk textures), lived-in atmosphere lighting: warm golden hour light, soft highlight bloom, subtle rim light, slight overexposure in highlights style: 35mm analog film aesthetic, soft grain, warm vintage color tones, slight color fade, gentle light leaks, low contrast mood: nostalgic, intimate, candid, effortlessly attractive, "caught in a real moment" feeling camera: eye-level or slightly low angle, medium shot (waist-up or thigh-up), slight handheld feeling, shallow depth of field quality: ultra-realistic, fine details, cinematic texture, natural imperfections preserved aspect: 9:16
@@ -67,8 +76,11 @@ Author: @BubbleBrain<br>Channel: x<br>Date: 2026-04-23<br>Source: [https://x.com
 
 </details>
 
-<details>
-<summary><strong>27. Portrait By GPT-Image-2</strong> · Prompt · English</summary>
+### 27. Portrait By GPT-Image-2
+
+![Portrait By GPT-Image-2](images/027-raw_20260423_x_prompt_048.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Professional studio fashion photography, ultra-clean high-end digital editorial portrait in a pure white seamless cyclorama photography studio, massive soft octabox key light + large softbox fill light creating flawless even illumination
@@ -78,8 +90,11 @@ Author: BubbleBrain @BubbleBrain<br>Channel: x<br>Date: 2026-04-23<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>28. Luxury Love in Paradise: A Perfect Selfie Moment</strong> · Prompt · English</summary>
+### 28. Luxury Love in Paradise: A Perfect Selfie Moment
+
+![Luxury Love in Paradise: A Perfect Selfie Moment](images/028-raw_20260423_promptgather_prompt_015.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 ultra-realistic luxury commercial couple selfie portrait, eye-level close-up shot, 9:16 vertical aspect ratio, shot on high-end full-frame DSLR sensor with ultra-clean optical rendering and extreme clarity, a young couple standing in a luxury tropical villa infinity pool maintaining exact selfie composition with the female in front holding the camera with natural arm extension and the male standing closely behind embracing her waist, both looking directly into camera with calm confident premium expressions (no over-smile, controlled high-status look), face lock: strictly use provided male and female reference images separately and maintain 100% identical facial identity, structure, proportions, bone anatomy, skin tone, eye shape, lips, jawline and natural asymmetry for both individuals, do not mix or average faces, do not alter identity, preserve exact likeness with micro-detail accuracy, identity fusion control: correct depth alignment, natural face scaling, no perspective distortion error, lighting override: completely rebuild lighting into ultra-clean commercial studio lighting, pure white balanced light (5500K neutral), strong frontal soft key light with high diffusion but high clarity retention, controlled top fill light, precise rim light separation, eliminate all ambient color cast, eliminate warm/yellow tint, enforce uniform lighting across both subjects, optical clarity enhancement: extreme micro-contrast boost at skin level, high-frequency detail preservation, zero atmospheric haze, zero bloom, zero glow, zero diffusion softness, enforce crystal-clear air quality, no dust effect, no mist, no fog, no cinematic softness, facial rendering: ultra-clean luxury skincare commercial finish with razor-sharp micro-detail, visible pores but refined, strong contrast separation between highlights and shadows, clean edge definition, no softness, no blur, no subsurface haze, no skin flattening, hair: ultra-defined strand-level clarity with crisp separation and controlled specular highlights, no softness or blending, clothing: female wearing soft pink textured sleeveless top with ultra-sharp fabric micro-texture and wet interaction clarity, male wearing deep black premium shirt with strong contrast folds and structured fabric detail, environment: ultra-luxury tropical infinity pool with crystal-clear turquoise water, hyper-clean reflections, sharp ripple definition, zero water blur, background villas and palm trees rendered with high clarity but slight natural depth falloff, no fog or haze in background, color science: Rolls Royce commercial grade color pipeline, pure neutral whites, high dynamic range, strong tonal separation, deep blacks, clean highlights, no cinematic LUT, no teal-orange, no desaturation, lens & camera: 24mm wide-angle lens, f/2 aperture, full-frame sensor, ultra-high resolving power optics, no lens softness, no chromatic aberration, no glow, composition: tight centered selfie framing with natural arm perspective, realism: ultra-clean, ultra-sharp, high-end luxury advertisement quality output, zero grain, zero noise, zero compression artifacts,
@@ -89,8 +104,11 @@ Author: @imGopalTiwari<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [
 
 </details>
 
-<details>
-<summary><strong>39. Twitch Live Portrait</strong> · Prompt · English</summary>
+### 39. Twitch Live Portrait
+
+![Twitch Live Portrait](images/039-raw_20260423_reddit_prompt_001.png)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 a pretty 21 year old mixed girl on Twitch Live with headphones on
@@ -100,8 +118,11 @@ Author: MedalofHonour15<br>Channel: reddit<br>Date: 2026-04-21<br>Source: [https
 
 </details>
 
-<details>
-<summary><strong>47. 35mm 模拟警察时尚人像</strong> · Prompt · Chinese</summary>
+### 47. 35mm 模拟警察时尚人像
+
+![35mm 模拟警察时尚人像](images/047-raw_20260423_gptimg2-ai_prompt_049.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 模拟35mm胶片摄影，强烈机内直接闪光的高级时尚编辑人像（CCD硬闪光风格），从略下方（约+15°向上角度）亲密的低角度POV拍摄，强调长腿和优雅的沙漏比例，4:3垂直格式，3/4身体拍摄，20岁出头的韩国偶像型年轻女性，精致的五官，微微上翘的杏仁状狐狸眼，小尖下巴线，完美无瑕的瓷质皮肤，带有凉爽的象牙色底色和直接闪光的可见镜面高光，柔和的珊瑚色腮红，自然的灰玫瑰色嘴唇微微张开，自然卷曲的深棕色长发，松散的发丝勾勒出脸庞。她戴着一顶稍微倾斜的黑色警用鸭舌帽，上面戴着银色徽章。
@@ -119,8 +140,11 @@ Author: @BubbleBrain<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [http
 
 </details>
 
-<details>
-<summary><strong>51. Elegant Ink: A Portrait of Depth and Detail</strong> · Prompt · English</summary>
+### 51. Elegant Ink: A Portrait of Depth and Detail
+
+![Elegant Ink: A Portrait of Depth and Detail](images/051-raw_20260423_promptgather_prompt_076.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A detailed black-and-white pen-and-ink portrait of a young woman in three-quarter view, featuring fine cross-hatching and stippling for shading. She has softly defined facial features, expressive eyes looking toward the viewer, and slightly tousled dark hair tied in a loose bun with a few strands falling naturally. The drawing emphasizes realism and texture, with careful attention to light and shadow across her face and shoulders. The composition is minimal, set against a clean white background, highlighting the intricacy of the ink linework and artistic craftsmanship.
@@ -130,8 +154,11 @@ Author: @Minahil42298354<br>Channel: promptgather<br>Date: 2026-04-22<br>Source:
 
 </details>
 
-<details>
-<summary><strong>54. 实测GPT-image2超写实胶片人像，附提示词</strong> · Prompt · Chinese</summary>
+### 54. 实测GPT-image2超写实胶片人像，附提示词
+
+![实测GPT-image2超写实胶片人像，附提示词](images/054-raw_20260424_xiaohongshu_prompt_001.webp)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 主题：一位顶级胶片摄影大师以35mm Kodak Portra 800胶片拍摄的极致电影感肖像，配合强烈便利店荧光灯与户外色彩霓虹灯，真实胶片颗粒感，高对比度，微微色彩偏移，街头电影式剪辑风格。
@@ -146,8 +173,11 @@ Author: unknown<br>Channel: xiaohongshu<br>Date: 2026-04-24<br>Source: [https://
 
 </details>
 
-<details>
-<summary><strong>71. Intimate Glimpse: A Korean Idol in Bloom</strong> · Prompt · English</summary>
+### 71. Intimate Glimpse: A Korean Idol in Bloom
+
+![Intimate Glimpse: A Korean Idol in Bloom](images/071-raw_20260423_promptgather_prompt_066.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 9:16 vertical — Korean idol intimate portrait, single subject, boyfriend POV
@@ -179,8 +209,11 @@ Author: @BubbleBrain<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>72. Surreal Charm: A Korean Idol in a Dreamy Perspective</strong> · Prompt · English</summary>
+### 72. Surreal Charm: A Korean Idol in a Dreamy Perspective
+
+![Surreal Charm: A Korean Idol in a Dreamy Perspective](images/072-raw_20260423_promptgather_prompt_029.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 9:16 vertical — creative forced perspective portrait, Korean idol style, single subject
@@ -214,8 +247,11 @@ Author: @BubbleBrain<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>74. Today's Portrait by GPT-Image-2</strong> · Prompt · Chinese</summary>
+### 74. Today's Portrait by GPT-Image-2
+
+![Today's Portrait by GPT-Image-2](images/074-raw_20260423_x_prompt_047.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 Analog 35mm film photography, high-fashion editorial portrait with intense on-camera direct flash (CCD hard flash style), intimate low-angle POV shot from slightly below (仰拍, around +15° upward angle), emphasizing long legs and
@@ -225,8 +261,11 @@ Author: BubbleBrain @BubbleBrain<br>Channel: x<br>Date: 2026-04-23<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>80. Enchanted Elegance: A Ghibli Princess by the Koi Pond</strong> · Prompt · English</summary>
+### 80. Enchanted Elegance: A Ghibli Princess by the Koi Pond
+
+![Enchanted Elegance: A Ghibli Princess by the Koi Pond](images/080-raw_20260423_promptgather_prompt_013.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Detailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming with glowing lotus blossoms. She wears a soft blue and cream kimono embroidered with swirling waves and fox spirits. A delicate paper parasol rests against her shoulder, and her hair is crowned with cherry blossom branches threaded with tiny rainbow prisms that scatter gentle light onto the water’s surface.
@@ -236,8 +275,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>85. 卧室镜子自拍人像</strong> · Prompt · Chinese</summary>
+### 85. 卧室镜子自拍人像
+
+![卧室镜子自拍人像](images/085-raw_20260423_gptimg2-ai_prompt_048.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 一个十八岁的漂亮中国女孩，有着青春清纯的脸庞和逼真的肌肤纹理，坐在卧室一张舒适而略显凌乱的床上。她正在用智能手机对着镜子自拍，捕捉自然而亲密的时刻。穿着休闲的灰色家居服和整洁的白色圆袜。柔和的自然光（黄金时段）从侧窗射入，营造出温暖、喜怒无常的电影氛围。 35 毫米镜头，镜子中的拍摄对象清晰对焦，景深优美，背景虚化（散景）。逼真、8K、高分辨率、工作室品质、杰作。
@@ -248,8 +290,19 @@ Author: @Shinning1010<br>Channel: gptimg2-ai<br>Date: 2026-04-17<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>87. Editorial Softlight Portrait in Minimal Studio</strong> · Prompt · English</summary>
+### 87. Editorial Softlight Portrait in Minimal Studio
+
+![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041.jpg)
+
+<details><summary>More images</summary>
+
+![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041-extra-1.jpg)
+
+![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041-extra-2.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 {'format': '2:3 vertical', 'style': 'editorial fashion photography', 'quality': 'ultra-realistic, 8K, high detail', 'lighting': {'type': 'natural window light', 'direction': 'soft light entering from left side', 'intensity': 'bright but diffused', 'effects': 'gentle highlight bloom, soft shadows, subtle glow on skin'}, 'environment': {'location': 'minimal indoor studio', 'background': {'right_side': 'neutral textured light grey wall', 'left_side': 'large bright window', 'outside_view': 'overexposed soft daylight, minimal visible detail'}, 'mood': 'clean, elegant, airy, modern'}, 'subject': {'type': 'young woman', 'pose': {'position': 'leaning slightly against wall on right', 'body_angle': 'slightly turned toward camera', 'posture': 'relaxed yet confident', 'head_tilt': 'subtle, natural'}, 'expression': {'emotion': 'calm, soft, slightly seductive', 'gaze': 'direct or slightly off-camera', 'facial_details': 'natural skin texture, soft glow'}, 'appearance': {'hair': {'color': 'dark brown to black', 'style': 'soft updo', 'details': 'slightly loose strands framing face, natural volume'}, 'skin': {'texture': 'realistic, smooth but not overly retouched', 'tone': 'even, softly illuminated'}, 'makeup': {'style': 'minimal glam', 'details': 'subtle highlight, soft blush, lightly defined eyes, natural lip color'}}}, 'outfit': {'type': 'mini dress', 'color': 'white', 'material': 'sheer, lightweight fabric', 'design': {'style': 'off-the-shoulder', 'straps': 'tie straps on shoulders', 'sleeves': 'flared bell sleeves', 'fit': 'slightly fitted, softly draping over body', 'transparency': 'semi-sheer with tasteful layering'}}, 'accessories': {'jewelry': [{'type': 'necklace', 'style': 'delicate diamond necklace', 'effect': 'subtle sparkle'}, {'type': 'earrings', 'style': 'long dangling diamond earrings', 'effect': 'elegant shine, catches light'}, {'type': 'bracelet', 'style': 'thin diamond bracelet', 'placement': 'left wrist', 'effect': 'minimal, refined sparkle'}]}, 'camera': {'lens': '85mm portrait lens', 'aperture': 'f/1.8', 'focus': 'sharp focus on subject, soft background blur', 'depth_of_field': 'shallow', 'framing': 'subject centered slightly to right, window visible on left', 'angle': 'eye-level shot'}, 'post_processing': {'color_grading': 'soft neutral tones, slightly warm highlights', 'contrast': 'moderate', 'effects': ['subtle grain', 'gentle bloom on highlights', 'clean editorial finish'], 'retouching': 'minimal, preserving natural texture'}}
@@ -259,8 +312,11 @@ Author: @XSydneyFan<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>91. Duality of Elegance: A Portrait Split by Artistic Vision</strong> · Prompt · English</summary>
+### 91. Duality of Elegance: A Portrait Split by Artistic Vision
+
+![Duality of Elegance: A Portrait Split by Artistic Vision](images/091-raw_20260423_promptgather_prompt_017.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 The painting contains only one face: that of an elegant young female model with little grin. The line that runs from her hair parting to seamlessly split her face in half is designed to look like violently torn paper. The painting is perfectly, completely and forcibly divided into two parts by one flowing lines that resemble tears in the paper:
@@ -275,8 +331,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>93. Night Street Cafe Flash Portrait</strong> · Prompt · English</summary>
+### 93. Night Street Cafe Flash Portrait
+
+![Night Street Cafe Flash Portrait](images/093-raw_20260423_reddit_prompt_002.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Nighttime street photography of a young blonde woman sitting at an outdoor cafe, looking off-camera. She has a messy updo and glowing makeup. She is wearing a plunging black halter crop top, off-white high-waisted pants, and an oversized beige blazer draped over her shoulders. Accessorized with delicate layered gold necklaces and rings. She is leaning on a woven bistro chair. Warm, direct flash lighting, cinematic style, with a blurred dark city street and car lights in the background.
@@ -286,8 +345,11 @@ Author: Able-Line2683<br>Channel: reddit<br>Date: 2026-04-23<br>Source: [https:/
 
 </details>
 
-<details>
-<summary><strong>94. Unleashed Fury: A Motocross Mastery in Motion</strong> · Prompt · English</summary>
+### 94. Unleashed Fury: A Motocross Mastery in Motion
+
+![Unleashed Fury: A Motocross Mastery in Motion](images/094-raw_20260423_promptgather_prompt_074.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A cinematic high resolution action portrait of a young man riding a modern motocross dirt bike across rough rocky terrain during golden hour sunset. He is leaning aggressively forward while turning, showing focus and intensity on his face. He has messy windswept dark hair, light stubble, sharp jawline, athletic build, wearing a fitted black compression t shirt, dark cargo pants, black motocross gloves with orange details, and black racing boots with orange accents.
@@ -302,8 +364,11 @@ Author: @harboriis<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [http
 
 </details>
 
-<details>
-<summary><strong>96. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.</strong> · Prompt · English</summary>
+### 96. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.
+
+![ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.](images/096-raw_20260424_x_prompt_020.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A 22-year-old East Asian girl, round youthful face, large bright doe eyes with natural lashes, rosy cheeks, soft pink lip gloss, two-strand loose braids with baby hairs. Wearing a pastel lavender oversized hoodie. Background: blurred Japanese convenience store interior at night, neon light reflections adding color pops. Expression: playful, bubbly, genuinely happy. Aesthetic: Douyin/TikTok influencer portrait, soft beauty filter quality, warm skin tone, natural light. Photorealistic, 8K.16:9
@@ -313,8 +378,11 @@ Author: John @johnAGI168<br>Channel: x<br>Date: 2026-04-24<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>99. 日本温泉旅馆人像</strong> · Prompt · Chinese</summary>
+### 99. 日本温泉旅馆人像
+
+![日本温泉旅馆人像](images/099-raw_20260423_gptimg2-ai_prompt_001.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 35mm胶片摄影，温暖复古的日式温泉旅馆美学，柔和的木灯笼灯光与柔和的自然窗光混合，细腻的胶片颗粒，柔和的色移，高调的编辑风格，亲密的中景，20岁出头的美丽中国女偶像，超写实精致的中国特色，诱人的杏仁形狐狸眼与自然的双眼皮，高鼻梁，小尖V形下颌线，完美的瓷质皮肤带有温暖的象牙色底色，可见微妙的皮肤纹理和微细毛孔，柔和自然的妆容带着露水的光泽，脸颊上有微妙的红晕，自然柔软的粉红色嘴唇微微分开，长长的深棕色头发扎成松散的低发髻，一些凌乱的发丝落在脸上和脖子上，穿着一件宽松的白色浴衣（日本传统浴袍）故意从肩膀上滑下来，松松地系在腰上，织物微微张开，露出光滑的皮肤和微妙的乳沟，赤脚，在老式温泉的传统木制远川阳台边缘摆出诱人的放松坐姿旅馆，身体微微转向镜头，一条腿弯曲，脚踩在木地板上，另一条腿轻轻悬垂，一手轻轻握住浴衣领子，另一只手支撑在身后的木地板上，轻轻弓起背部，轻轻突出曲线，强烈诱惑而又温柔诱人的目光直视观看者，柔和的母鹿眼睛充满安静的诱惑和温暖，温暖的木质内饰，纸质推拉门，远处热气腾腾的温泉，柔和的焦点，温柔的边缘灯光突出皮肤和织物纹理，正宗复古胶片暖色调调色，极其锐利而柔软的皮肤渲染，自然发丝，真实的织物皱纹和浴衣上的垂坠感，无塑料皮肤，无数字过度锐化，无喷枪，无瑕疵，无痣，无油性皮肤，无水印，无文字，正宗的35毫米胶片日本温泉旅馆氛围
@@ -324,8 +392,19 @@ Author: @BubbleBrain<br>Channel: gptimg2-ai<br>Date: 2026-04-17<br>Source: [http
 
 </details>
 
-<details>
-<summary><strong>100. Avant-Garde Fashion: A Bold Statement in Paper</strong> · Prompt · English</summary>
+### 100. Avant-Garde Fashion: A Bold Statement in Paper
+
+![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083.jpg)
+
+<details><summary>More images</summary>
+
+![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083-extra-1.jpg)
+
+![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083-extra-2.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Cinematic photorealistic fashion portrait of a stunning young South Indian woman (early 20s) posing boldly in an avant-garde newspaper dress. She is wearing a creative strapless outfit entirely made from real newspaper pages — a bandeau-style top and a short asymmetrical skirt crafted from folded and layered newspaper sheets. She has long voluminous wavy black hair, dramatic smoky eye makeup, bold lips, andlarge silver hoop earrings.
@@ -346,8 +425,11 @@ Author: @XSydneyFan<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [htt
 
 ## General
 
-<details>
-<summary><strong>2. New GPT Image 2 checkpoint</strong> · Prompt · English</summary>
+### 2. New GPT Image 2 checkpoint
+
+![New GPT Image 2 checkpoint](images/002-raw_20260423_x_prompt_039.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Show me the attached image as a snapshot from an actual anime
@@ -357,8 +439,11 @@ Author: Thereallo @Thereallo1026<br>Channel: x<br>Date: 2026-04-23<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>3. 成都美食地图插画</strong> · Prompt · Chinese</summary>
+### 3. 成都美食地图插画
+
+![成都美食地图插画](images/003-raw_20260423_gptimg2-ai_prompt_002.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 打造以成都为主题的手绘城市美食地图。以鸟瞰图解城市地图为基础，以简化的方式显示主要道路和地标，与严格的地理精确度相比，更喜欢可爱的手绘感觉。在地图上分布12个精致的图文美食点：例如春熙路的竹签热气腾腾的串烧、宽窄巷子的三个炮弹年糕飞向铜盘、建设路的金蛋煎饼被翻转、玉林路的九格火锅冒泡等。每个食物插图应占据地图面积的 5% 左右。在每个商店旁边，添加手写的商店名称和简短的推荐行，例如“凌晨 2 点仍然有人排队的地方”。用手绘的藤蔓和辣椒装饰边框。在右下角添加手绘指南针和图例。在左上角，将标题设置为“成都美食横冲直撞地图”，采用带有辣椒口音的粗手绘字体。整体视觉风格应混合水彩和彩色铅笔纹理，以辣椒红、姜黄和鲜绿色为中心的温暖色调。长宽比 1:1。
@@ -368,8 +453,11 @@ Author: @Panda20230902<br>Channel: gptimg2-ai<br>Date: 2026-04-18<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>5. #AIart #AIイラスト GPT-image-2 test</strong> · Prompt · English</summary>
+### 5. #AIart #AIイラスト GPT-image-2 test
+
+![#AIart #AIイラスト GPT-image-2 test](images/005-raw_20260424_x_prompt_008.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Two girls with a fated grudge, anime illustration
@@ -379,8 +467,11 @@ Author: IT navi @itnavi2022<br>Channel: x<br>Date: 2026-04-24<br>Source: [https:
 
 </details>
 
-<details>
-<summary><strong>9. 无缝夹克平铺图</strong> · Prompt · Chinese</summary>
+### 9. 无缝夹克平铺图
+
+![无缝夹克平铺图](images/009-raw_20260423_gptimg2-ai_prompt_051.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 第 1 阶段 — 形式：[服装类型]，没有可见的拉链、纽扣或任何类型的扣件 — 无缝闭合
@@ -398,8 +489,11 @@ Author: @SRKDAN<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>14. 打乱魔方的镜面反射</strong> · Prompt · Chinese</summary>
+### 14. 打乱魔方的镜面反射
+
+![打乱魔方的镜面反射](images/014-raw_20260423_gptimg2-ai_prompt_012.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 一个正确打乱的魔方放在镜子旁边，清晰地显示了它的镜面反射。无刺眼的光反射。
@@ -409,8 +503,17 @@ Author: @chetaslua<br>Channel: gptimg2-ai<br>Date: 2026-04-15<br>Source: [https:
 
 </details>
 
-<details>
-<summary><strong>16. GPT Image 2 vs GPT Image 1.5</strong> · Prompt · English</summary>
+### 16. GPT Image 2 vs GPT Image 1.5
+
+![GPT Image 2 vs GPT Image 1.5](images/016-raw_20260423_x_prompt_028.jpg)
+
+<details><summary>More images</summary>
+
+![GPT Image 2 vs GPT Image 1.5](images/016-raw_20260423_x_prompt_028-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A realistic photo of an open dotted notebook lying flat, filled with dense handwritten notes in blue ballpoint pen. The handwriting is casual and slightly messy, like study notes, natural
@@ -420,8 +523,17 @@ Author: Patrick @patrickassale<br>Channel: x<br>Date: 2026-04-23<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>17. ECHO SKIN: The Future of Neural Visors Unveiled</strong> · Prompt · English</summary>
+### 17. ECHO SKIN: The Future of Neural Visors Unveiled
+
+![ECHO SKIN: The Future of Neural Visors Unveiled](images/017-raw_20260423_promptgather_prompt_071.jpg)
+
+<details><summary>More images</summary>
+
+![ECHO SKIN: The Future of Neural Visors Unveiled](images/017-raw_20260423_promptgather_prompt_071-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 You are a premium sci-fi advertising director launching the ECHO SKIN NEURAL VISOR — a sleek, near-future AI visor worn across both eyes like a high-fashion accessory meets military optics.
@@ -436,8 +548,19 @@ Author: @AllaAisling<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>19. Tropical Sparkling Water in Sunlit Sand</strong> · Prompt · English</summary>
+### 19. Tropical Sparkling Water in Sunlit Sand
+
+![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004.jpg)
+
+<details><summary>More images</summary>
+
+![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004-extra-1.jpg)
+
+![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004-extra-2.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A professional product photography shot of a cold sparkling water 
@@ -461,8 +584,11 @@ Author: @meng_dagg695<br>Channel: promptgather<br>Source: [https://promptgather.
 
 </details>
 
-<details>
-<summary><strong>22. Wow, I'm really impressed by the text rendering quality of GPT Image 2. It looks like a real screens</strong> · Prompt · English</summary>
+### 22. Wow, I'm really impressed by the text rendering quality of GPT Image 2. It looks like a real screens
+
+![Wow, I'm really impressed by the text rendering quality of GPT Image 2. It looks like a real screens](images/022-raw_20260423_x_prompt_029.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Screenshot of the Yahoo homepage.
@@ -472,8 +598,11 @@ Author: Patrick @patrickassale<br>Channel: x<br>Date: 2026-04-23<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>23. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.</strong> · Prompt · English</summary>
+### 23. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.
+
+![ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.](images/023-raw_20260423_x_prompt_036.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A 22-year-old East Asian girl, round youthful face, large bright doe eyes with natural lashes, rosy cheeks, soft pink lip gloss, two-strand loose braids with baby hairs.
@@ -483,8 +612,19 @@ Author: John @johnAGI168<br>Channel: x<br>Date: 2026-04-23<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>26. Dissection of Culinary Marvels: A Botanical Journey</strong> · Prompt · Chinese</summary>
+### 26. Dissection of Culinary Marvels: A Botanical Journey
+
+![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030.jpg)
+
+<details><summary>More images</summary>
+
+![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030-extra-1.jpg)
+
+![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030-extra-2.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
@@ -539,8 +679,11 @@ Author: @GeekCatX<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [https
 
 </details>
 
-<details>
-<summary><strong>30. gpt image 2生成创意插画：锦鲤。</strong> · Prompt · Chinese</summary>
+### 30. gpt image 2生成创意插画：锦鲤。
+
+![gpt image 2生成创意插画：锦鲤。](images/030-raw_20260423_x_prompt_043.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。
@@ -550,8 +693,23 @@ Author: 李岳 @liyue_ai<br>Channel: x<br>Date: 2026-04-23<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>32. GPT Image 2</strong> · Prompt · English</summary>
+### 32. GPT Image 2
+
+![GPT Image 2](images/032-raw_20260424_x_prompt_022.jpg)
+
+<details><summary>More images</summary>
+
+![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-1.jpg)
+
+![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-2.jpg)
+
+![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-3.jpg)
+
+![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-4.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
@@ -561,8 +719,17 @@ Author: Patrick @patrickassale<br>Channel: x<br>Date: 2026-04-24<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>34. WOW!!! New GPT-Image insane!!</strong> · Prompt · English</summary>
+### 34. WOW!!! New GPT-Image insane!!
+
+![WOW!!! New GPT-Image insane!!](images/034-raw_20260424_x_prompt_012.jpg)
+
+<details><summary>More images</summary>
+
+![WOW!!! New GPT-Image insane!!](images/034-raw_20260424_x_prompt_012-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 EA FC 26 Icon Neymar pack. NO ps plus.
@@ -577,8 +744,11 @@ Author: Riccardo Wolf @WolfRiccardo<br>Channel: x<br>Date: 2026-04-24<br>Source:
 
 </details>
 
-<details>
-<summary><strong>40. Today's Portrait by GPT-Image-2</strong> · Prompt · English</summary>
+### 40. Today's Portrait by GPT-Image-2
+
+![Today's Portrait by GPT-Image-2](images/040-raw_20260424_x_prompt_004.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
@@ -588,8 +758,11 @@ Author: BubbleBrain @BubbleBrain<br>Channel: x<br>Date: 2026-04-24<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>42. 太祖李成桂 X 页面</strong> · Prompt · Chinese</summary>
+### 42. 太祖李成桂 X 页面
+
+![太祖李成桂 X 页面](images/042-raw_20260423_gptimg2-ai_prompt_050.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 创作一个设定在威化岛回军前夕的太祖李成桂 X 页面，页面里充满他与崔莹将军公开互呛的帖子。
@@ -599,8 +772,23 @@ Author: @SKA_Neotype<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [http
 
 </details>
 
-<details>
-<summary><strong>45. 模型：gpt-image-2</strong> · Prompt · Chinese</summary>
+### 45. 模型：gpt-image-2
+
+![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024.jpg)
+
+<details><summary>More images</summary>
+
+![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-1.jpg)
+
+![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-2.jpg)
+
+![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-3.jpg)
+
+![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-4.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。
@@ -610,8 +798,11 @@ Author: BLANPLAN | 空界計劃 @blanplan<br>Channel: x<br>Date: 2026-04-23<br>S
 
 </details>
 
-<details>
-<summary><strong>48. Pixelated Treats: The Ultimate Summer Indulgence</strong> · Prompt · English</summary>
+### 48. Pixelated Treats: The Ultimate Summer Indulgence
+
+![Pixelated Treats: The Ultimate Summer Indulgence](images/048-raw_20260423_promptgather_prompt_011.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 William and Piggy shaped ice cream, pink square ice cream with pixel eyes and pig noses, strawberry flavor, served on a cone, cute food design. 
@@ -623,8 +814,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>49. 折射 Sans Crystal 字体</strong> · Prompt · Chinese</summary>
+### 49. 折射 Sans Crystal 字体
+
+![折射 Sans Crystal 字体](images/049-raw_20260423_gptimg2-ai_prompt_053.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 第 1 阶段 — LETTERFORM：将 [LETTER] 渲染为多面水晶棱镜，[厚度]mm 深，内部几何形状可见
@@ -642,8 +836,11 @@ Author: @SRKDAN<br>Channel: gptimg2-ai<br>Date: 2026-04-15<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>50. GPT Image 2 Generate Creative Illustration: Koi Fish.</strong> · Prompt · English</summary>
+### 50. GPT Image 2 Generate Creative Illustration: Koi Fish.
+
+![GPT Image 2 Generate Creative Illustration: Koi Fish.](images/050-raw_20260424_x_prompt_028.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A surrealist digital illustration style, using a low-angle upward shot perspective. The scene depicts a giant colorful koi fish swimming freely in a dreamlike nebula, surrounded by vibrant colorful nebulae and bubbles. 
@@ -655,8 +852,21 @@ Author: 李岳 @liyue_ai<br>Channel: x<br>Date: 2026-04-24<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>52. Whimsical Crayon Dreams</strong> · Prompt · English</summary>
+### 52. Whimsical Crayon Dreams
+
+![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018.jpg)
+
+<details><summary>More images</summary>
+
+![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-1.jpg)
+
+![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-2.jpg)
+
+![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 [subject], crayon drawing illustration, hand-drawn with soft waxy texture, visible scribble marks, uneven coloring, playful childlike style, simple shapes, charming imperfections, layered crayon strokes, textured paper surface, warm nostalgic feeling, vibrant colors, clean white background
@@ -666,8 +876,11 @@ Author: @Strength04_X<br>Channel: promptgather<br>Source: [https://promptgather.
 
 </details>
 
-<details>
-<summary><strong>56. GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12</strong> · Prompt · Chinese</summary>
+### 56. GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12
+
+![GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12](images/056-raw_20260423_x_prompt_021.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12
@@ -677,8 +890,17 @@ Author: 终极小谢 @Panda20230902<br>Channel: x<br>Date: 2026-04-23<br>Source:
 
 </details>
 
-<details>
-<summary><strong>60. (Left) Nano Banana 2 vs New GPT-Image (Right)</strong> · Prompt · English</summary>
+### 60. (Left) Nano Banana 2 vs New GPT-Image (Right)
+
+![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/060-raw_20260423_x_prompt_040.jpg)
+
+<details><summary>More images</summary>
+
+![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/060-raw_20260423_x_prompt_040-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality.
@@ -689,8 +911,17 @@ Author: Riccardo Wolf @WolfRiccardo<br>Channel: x<br>Date: 2026-04-23<br>Source:
 
 </details>
 
-<details>
-<summary><strong>61. (Left) Nano Banana 2 vs New GPT-Image (Right)</strong> · Prompt · English</summary>
+### 61. (Left) Nano Banana 2 vs New GPT-Image (Right)
+
+![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/061-raw_20260424_x_prompt_025.jpg)
+
+<details><summary>More images</summary>
+
+![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/061-raw_20260424_x_prompt_025-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality.
@@ -701,8 +932,17 @@ Author: Riccardo Wolf @WolfRiccardo<br>Channel: x<br>Date: 2026-04-24<br>Source:
 
 </details>
 
-<details>
-<summary><strong>63. 用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2</strong> · Prompt · Chinese</summary>
+### 63. 用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2
+
+![用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2](images/063-raw_20260423_x_prompt_035.jpg)
+
+<details><summary>More images</summary>
+
+![用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2](images/063-raw_20260423_x_prompt_035-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人
@@ -712,8 +952,11 @@ Author: AGI伸伸哥 @Zoulinshen<br>Channel: x<br>Date: 2026-04-23<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>68. Today's Portrait by GPT-Image-2</strong> · Prompt · English</summary>
+### 68. Today's Portrait by GPT-Image-2
+
+![Today's Portrait by GPT-Image-2](images/068-raw_20260423_x_prompt_023.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent
@@ -723,8 +966,11 @@ Author: BubbleBrain @BubbleBrain<br>Channel: x<br>Date: 2026-04-23<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>75. Moonlit Song Dynasty River Through Wooden Window</strong> · Prompt · Chinese</summary>
+### 75. Moonlit Song Dynasty River Through Wooden Window
+
+![Moonlit Song Dynasty River Through Wooden Window](images/075-raw_20260423_promptgather_prompt_022.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 宋代山水意境的中式国风插画，细腻的水墨勾线与柔和矿物颜料设色，银色月光洒落并映照水面，整体以浅蓝、青玉色为主调，点缀柔和粉色花枝，空气中带有朦胧雾气，河面流动倒影细腻，辅以若有若无的淡金色微光，电影感、诗意化灯光，空灵东方美学，高级国风绘本插画质感，4K 细节。
@@ -738,8 +984,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>77. Chronicles of Innovation: A Visual Journey Through Time</strong> · Prompt · English</summary>
+### 77. Chronicles of Innovation: A Visual Journey Through Time
+
+![Chronicles of Innovation: A Visual Journey Through Time](images/077-raw_20260423_promptgather_prompt_080.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique invention diorama that changed the world at its time, no repeats. Use colors, background, & era relevant components
@@ -749,8 +998,11 @@ Author: @Gdgtify<br>Channel: promptgather<br>Source: [https://promptgather.io/pr
 
 </details>
 
-<details>
-<summary><strong>81. 超现实锦鲤星云插画</strong> · Prompt · Chinese</summary>
+### 81. 超现实锦鲤星云插画
+
+![超现实锦鲤星云插画](images/081-raw_20260423_gptimg2-ai_prompt_044.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 从低角度视角创建超现实的数字插图。展示一条巨大的彩色锦鲤在梦幻般的星云中游动，周围环绕着鲜艳的色彩云和漂浮的气泡。在场景的中央，放置一个小人物，背对着观众站立，平静地抬头看着天空中巨大的锦鲤，而锦鲤则将头向下倾斜到人物身上。强调戏剧性的尺度对比，保持整体情绪空灵、宽敞、梦幻。宽高比 9:16。
@@ -760,8 +1012,11 @@ Author: @liyue_ai<br>Channel: gptimg2-ai<br>Date: 2026-04-19<br>Source: [https:/
 
 </details>
 
-<details>
-<summary><strong>83. 蒂姆·库克苹果公园主题演讲</strong> · Prompt · Chinese</summary>
+### 83. 蒂姆·库克苹果公园主题演讲
+
+![蒂姆·库克苹果公园主题演讲](images/083-raw_20260423_gptimg2-ai_prompt_010.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 iPhone 20 主题演讲期间在 Apple Park 拍摄的业余 iPhone 照片，蒂姆·库克 (Tim Cook) 登台演讲。从远处人群中拍摄
@@ -771,8 +1026,11 @@ Author: @patrickassale<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>86. 朱莉安娜东京泡沫时代舞池</strong> · Prompt · Chinese</summary>
+### 86. 朱莉安娜东京泡沫时代舞池
+
+![朱莉安娜东京泡沫时代舞池](images/086-raw_20260423_gptimg2-ai_prompt_059.webp)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 用当年的拍摄器材，以业余抓拍的质感，从舞台下方向上拍摄平成泡沫时期朱莉安娜东京里正在跳舞的女性。
@@ -782,8 +1040,11 @@ Author: @x_discussions<br>Channel: gptimg2-ai<br>Date: 2026-04-21<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>89. gpt image 2生成图片：东方美学。</strong> · Prompt · Chinese</summary>
+### 89. gpt image 2生成图片：东方美学。
+
+![gpt image 2生成图片：东方美学。](images/089-raw_20260424_x_prompt_017.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。
@@ -801,8 +1062,11 @@ Author: 李岳 @liyue_ai<br>Channel: x<br>Date: 2026-04-24<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>90. Is this gpt image 2?</strong> · Prompt · English</summary>
+### 90. Is this gpt image 2?
+
+![Is this gpt image 2?](images/090-raw_20260423_x_prompt_032.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Sam Altman on a skateboard at a skatepark with no people.
@@ -812,8 +1076,11 @@ Author: Ilbs (I love boring stuff) @Malek1173989<br>Channel: x<br>Date: 2026-04-
 
 </details>
 
-<details>
-<summary><strong>98. #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎</strong> · Prompt · Japanese</summary>
+### 98. #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎
+
+![#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎](images/098-raw_20260423_x_prompt_037.jpg)
+
+<details><summary>Prompt · Japanese</summary>
 
 ```text
 上杉謙信のXの日本語プロフィールページ(トイレで亡くなる直前)
@@ -825,8 +1092,17 @@ Author: まるめろ｜オリジナルAI音楽 / アニソン風J-POP @marumero_
 
 ## UI Mockup
 
-<details>
-<summary><strong>4. 916 Coser头像截图</strong> · Prompt · Chinese</summary>
+### 4. 916 Coser头像截图
+
+![916 Coser头像截图](images/004-raw_20260423_gptimg2-ai_prompt_026.jpg)
+
+<details><summary>More images</summary>
+
+![916 Coser头像截图](images/004-raw_20260423_gptimg2-ai_prompt_026-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 生成智能手机屏幕截图风格的竖向图像，整体长宽比接近 9:16。在框架的上部中心附近，显示描绘指定动漫角色的现实生活角色扮演者。这个人应该感觉很真实，但面部特征略带动漫风格：细腻的皮肤，稍微放大的眼睛，以及看着镜头的温柔表情。让角色坐在咖啡馆或酒吧柜台等​​休闲的室内场景中，并使用与环境相匹配的道具。在最顶部添加手机操作系统状态栏，包括时间、电池、信号和网络图标，使整个图像看起来像真正的手机屏幕截图。在图像的底部，覆盖一个宽阔的半透明 galgame 风格的对话框。在对话框的左侧，放置与屏幕上的角色匹配的动漫或赤壁头像。在右侧，布局文本，使第一行以较大字体显示相同的角色名称，然后是一两行温暖、治愈风格的简体中文对话，您可以自动编写这些对话以匹配角色的个性。在其下方添加一个控制栏，参考经典的 galgame UI 样式。保持整体画面清晰度高、细节丰富，灯光柔和，动漫美学与真人肖像自然融合。
@@ -836,8 +1112,11 @@ Author: @Zoulinshen<br>Channel: gptimg2-ai<br>Date: 2026-04-17<br>Source: [https
 
 </details>
 
-<details>
-<summary><strong>65. Isometric Google Stock Dashboard Miniature 3D Scene</strong> · Prompt · English</summary>
+### 65. Isometric Google Stock Dashboard Miniature 3D Scene
+
+![Isometric Google Stock Dashboard Miniature 3D Scene](images/065-raw_20260423_promptgather_prompt_052.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
@@ -872,8 +1151,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 ## Infographic
 
-<details>
-<summary><strong>6. FPSO Engineering Infographic</strong> · Prompt · English</summary>
+### 6. FPSO Engineering Infographic
+
+![FPSO Engineering Infographic](images/006-raw_20260423_x_prompt_013.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Create the most detailed infographic ever made about how a modern FPSO is designed, built, and put into operation, from the conceptual engineering phase and hull fabrication (or conversion of a VLCC) in a shipyard to the complete integration of topside modules, turret mooring system, commissioning, and full production operation, three-phase separation, gas compression, storage, and transfer of crude oil in ultra-deep waters.
@@ -883,8 +1165,17 @@ Author: @diogosantosbr<br>Channel: x<br>Date: 2026-04-23<br>Source: [https://x.c
 
 </details>
 
-<details>
-<summary><strong>15. 科普百科图模块化信息图模板</strong> · Template · Chinese</summary>
+### 15. 科普百科图模块化信息图模板
+
+![科普百科图模块化信息图模板](images/015-raw_20260423_xiaohongshu_template_004.webp)
+
+<details><summary>More images</summary>
+
+![科普百科图模块化信息图模板](images/015-raw_20260423_xiaohongshu_template_004-extra-1.webp)
+
+</details>
+
+<details><summary>Template · Chinese</summary>
 
 ```text
 请根据【日本铁路站前布局】生成一张高质量竖版「科普百科图」。这张图不是普通海报，也不是单纯插画，而是一张兼具图鉴感、百科感、信息结构感、收藏感的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
@@ -900,8 +1191,11 @@ Author: 公共火车公司.JIE<br>Channel: xiaohongshu<br>Date: 2026-04-22<br>So
 
 </details>
 
-<details>
-<summary><strong>38. 数据科学与机器学习全景信息图</strong> · Prompt · Chinese</summary>
+### 38. 数据科学与机器学习全景信息图
+
+![数据科学与机器学习全景信息图](images/038-raw_20260423_gptimg2-ai_prompt_020.webp)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 生成一张极其复杂、信息密度极高的数据科学与机器学习全景信息图。
@@ -911,8 +1205,11 @@ Author: @x_discussions<br>Channel: gptimg2-ai<br>Date: 2026-04-21<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>41. Understanding Heart Attacks: A Detailed Infographic</strong> · Prompt · English</summary>
+### 41. Understanding Heart Attacks: A Detailed Infographic
+
+![Understanding Heart Attacks: A Detailed Infographic](images/041-raw_20260423_promptgather_prompt_034.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 {'type': 'comprehensive medical infographic', 'style': 'highly detailed 3D medical illustration, clinical white background, clean typography', 'header': {'title_cn': '', 'title_en': '{argument name="english title" default="THE CAUSAL CHAIN OF HEART ATTACK"}', 'subtitle': 'Chest pain is not the beginning. Vascular damage is.', 'top_right_sequence': {'count': 6, 'labels': ['Risk Factors', 'Plaque Formation', 'Rupture', 'Clotting', 'Ischemia', 'Damage']}}, 'centerpiece': {'description': '{argument name="central figure" default="transparent anatomical human body showing heart, coronary arteries, lungs, and vascular system"}', 'details': 'pathway highlighted in {argument name="highlight color" default="glowing red"} focusing on the coronary arteries and radiating pain to the chest and left arm'}, 'layout': {'left_column': [{'id': '01', 'title': 'Major Risk Factors', 'elements': 6, 'labels': ['Smoking', 'High LDL cholesterol', 'Hypertension', 'Diabetes', 'Obesity', 'Chronic stress']}, {'id': '02', 'title': 'Atherosclerosis Development', 'elements': 2, 'labels': ['Fatty streak to plaque', 'Coronary artery wall']}, {'id': '03', 'title': 'Reduced Coronary Blood Flow', 'elements': 2, 'labels': ['Narrowed artery lumen', 'Oxygen delivery decline']}, {'id': '04', 'title': 'Vulnerable Plaque', 'elements': 2, 'labels': ['Thin fibrous cap', 'Lipid-rich core']}], 'center_overlay': [{'id': '05', 'title': 'Plaque Rupture & Clot Formation', 'elements': 3, 'labels': ['Plaque rupture diagram', 'Platelet aggregation', 'Occlusive thrombus']}, {'id': '06', 'title': 'Myocardial Ischemia', 'elements': 1, 'labels': ['Heart muscle cross-section with blocked coronary artery']}], 'right_column': [{'id': '07', 'title': 'Cellular Injury Cascade', 'elements': 4, 'labels': ['Oxygen deprivation', 'Mitochondrial failure', 'Cell membrane breakdown', 'Troponin release']}, {'id': '08', 'title': 'Acute Heart Attack', 'elements': 1, 'labels': ['Patient clutching chest']}, {'id': '09', 'title': 'Permanent Myocardial Damage', 'elements': 1, 'labels': ['Necrotic heart tissue']}, {'id': '10', 'title': 'Complications', 'elements': 2, 'labels': ['Arrhythmia', 'Heart failure']}, {'id': '11', 'title': 'Beyond the Heart', 'elements': 2, 'labels': ['Reduced systemic perfusion', 'Brain and kidney impact']}], 'bottom_row': [{'id': '12', 'title': 'Pain Is the Final Signal', 'elements': 7, 'labels': ['Risk Exposure', 'Plaque Buildup', 'Artery Narrowing', 'Plaque Rupture', 'Clot Formation', 'Muscle Death', 'Man in pain']}]}, 'theme': '{argument name="disease focus" default="heart attack and coronary artery blockage"}'}
@@ -922,8 +1219,21 @@ Author: @LudovicCreator<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: 
 
 </details>
 
-<details>
-<summary><strong>78. 建筑/城市/景观人群空间分析图模板</strong> · Template · Chinese</summary>
+### 78. 建筑/城市/景观人群空间分析图模板
+
+![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002.webp)
+
+<details><summary>More images</summary>
+
+![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-1.webp)
+
+![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-2.webp)
+
+![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-3.webp)
+
+</details>
+
+<details><summary>Template · Chinese</summary>
 
 ```text
 生成一张建筑/城市/景观分析图，主题为【分析主题】。图像类型为“微观行为—空间交互分析图”，采用统一的等轴测/轴测小场景序列构图，将【项目类型】中的【典型场景数量】个典型行为场景并列排布为【版式形式】网格。每个小场景都以相同视角、相近比例绘制，形成标准化可比较的分析单元。画面背景为纯白或极浅灰色。所有建筑构件、家具、界面、设施、围合边界、地面边线均使用浅灰色细线线稿表达，只保留空间骨架与必要轮廓，不表现材质、真实阴影和写实纹理。
@@ -939,8 +1249,21 @@ Author: 摩斯的建筑AI笔记<br>Channel: xiaohongshu<br>Date: 2026-04-22<br>S
 
 </details>
 
-<details>
-<summary><strong>84. Image2实测｜方案生成人群空间分析（附提示词</strong> · Template · Chinese</summary>
+### 84. Image2实测｜方案生成人群空间分析（附提示词
+
+![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001.webp)
+
+<details><summary>More images</summary>
+
+![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-1.webp)
+
+![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-2.webp)
+
+![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-3.webp)
+
+</details>
+
+<details><summary>Template · Chinese</summary>
 
 ```text
 生成一张建筑/城市/景观分析图，主题为【分析主题】。图像类型为“微观行为—空间交互分析图”，采用统一的等轴测/轴测小场景序列构图，将【项目类型】中的【典型场景数量】个典型行为场景并列排布为【版式形式】网格。每个小场景都以相同视角、相近比例绘制，形成标准化可比较的分析单元。 画面背景为纯白或极浅灰色。所有建筑构件、家具、界面、设施、围合边界、地面边线均使用浅灰色细线线稿表达，只保留空间骨架与必要轮廓，不表现材质、真实阴影和写实纹理。
@@ -959,8 +1282,11 @@ Author: unknown<br>Channel: xiaohongshu<br>Date: 2026-04-24<br>Source: [https://
 
 ## Editorial Collage
 
-<details>
-<summary><strong>7. Summer Outfit Editorial Collage</strong> · Prompt · English</summary>
+### 7. Summer Outfit Editorial Collage
+
+![Summer Outfit Editorial Collage](images/007-raw_20260423_reddit_prompt_003.png)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Freeform fashion-editorial collage of me in 8 distinct full-body summer outfits, arranged organically on a clean cream studio background. Keep my face consistent across all 8 looks, and make my proportions read around 5'10" tall without mentioning height in the text. Add neat handwritten arrows and labels for the key clothing pieces. No grid, border, or boxed panels. Keep all 8 full-body figures at the same visual scale and camera distance. Arrange them in a balanced two-row layout. Use a portrait 2:3 composition.
@@ -970,8 +1296,11 @@ Author: Revolutionary-Hippo1<br>Channel: reddit<br>Date: 2026-04-21<br>Source: [
 
 </details>
 
-<details>
-<summary><strong>76. Visual Polyglot Magazine Collage</strong> · Prompt · English</summary>
+### 76. Visual Polyglot Magazine Collage
+
+![Visual Polyglot Magazine Collage](images/076-raw_20260423_x_prompt_008.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 I am creating a magazine page with the theme of "visual polyglot".
@@ -997,8 +1326,21 @@ Author: @dotey<br>Channel: x<br>Date: 2026-04-22<br>Source: [https://x.com/dotey
 
 ## Poster Design
 
-<details>
-<summary><strong>8. Monochrome Sports Mosaic Tribute Poster</strong> · Prompt · English</summary>
+### 8. Monochrome Sports Mosaic Tribute Poster
+
+![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031.jpg)
+
+<details><summary>More images</summary>
+
+![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-1.jpg)
+
+![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-2.jpg)
+
+![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 [PERSON NAME]. 
@@ -1028,8 +1370,21 @@ Author: @Goodmanprotocol<br>Channel: promptgather<br>Date: 2026-04-22<br>Source:
 
 </details>
 
-<details>
-<summary><strong>10. Innovative Hand-Drawn Packaging Concepts for Modern Products</strong> · Prompt · Chinese</summary>
+### 10. Innovative Hand-Drawn Packaging Concepts for Modern Products
+
+![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070.jpg)
+
+<details><summary>More images</summary>
+
+![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-1.jpg)
+
+![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-2.jpg)
+
+![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 请为【产品名称】生成一张“手绘包装提案板风格”的产品介绍海报。 
@@ -1073,8 +1428,11 @@ Author: @MrLarus<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [https:
 
 </details>
 
-<details>
-<summary><strong>20. No portrait today but something different.</strong> · Prompt · English</summary>
+### 20. No portrait today but something different.
+
+![No portrait today but something different.](images/020-raw_20260424_x_prompt_027.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
@@ -1084,8 +1442,23 @@ Author: BubbleBrain @BubbleBrain<br>Channel: x<br>Date: 2026-04-24<br>Source: [h
 
 </details>
 
-<details>
-<summary><strong>21. 诗歌印象海报 Prompt</strong> · Prompt · Chinese</summary>
+### 21. 诗歌印象海报 Prompt
+
+![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008.webp)
+
+<details><summary>More images</summary>
+
+![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-1.webp)
+
+![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-2.webp)
+
+![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-3.webp)
+
+![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-4.webp)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 以这首诗为蓝本 创造有趣的印象海报
@@ -1096,8 +1469,11 @@ Author: Apokal-Panra<br>Channel: xiaohongshu<br>Date: 2026-04-22<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>31. 极简新中式 S 形海报</strong> · Prompt · Chinese</summary>
+### 31. 极简新中式 S 形海报
+
+![极简新中式 S 形海报](images/031-raw_20260423_gptimg2-ai_prompt_024.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 采用极简新中式美学，浅灰白色底色，立体剪纸浮雕感。用S形撕开的开口分割构图，仿佛一张纸被撕开，露出里面多彩的东方风景。在开口内，一条蜿蜒的河流从上到下流淌，呈现出分层的蓝色色调，就像一条流动的丝带。河两岸，加上柔和的青山和绿红交织的梯田，传达出静谧的田园意境。传统的河边建筑，飞檐、白墙、深色瓦顶，光线充足，给人优雅、永恒的感觉。添加茂密的树木和停在水中央的小船。整个构图由S形曲线驱动，让自然与人类文化有韵律地融合在一起。外边缘应使用撕纸效果来创造雕塑般的浅浮雕印象。底部有书法标题“东方美学”、日期“2026/04/18”、红色印章、“CHINA”字样，以及微妙的结束位置的签名“@LIYUE”。气氛应该让人感到安静、诗意和沉思。
@@ -1107,8 +1483,11 @@ Author: @liyue_ai<br>Channel: gptimg2-ai<br>Date: 2026-04-18<br>Source: [https:/
 
 </details>
 
-<details>
-<summary><strong>35. GPT-image-2 test (duct-tape-1)</strong> · Prompt · English</summary>
+### 35. GPT-image-2 test (duct-tape-1)
+
+![GPT-image-2 test (duct-tape-1)](images/035-raw_20260424_x_prompt_005.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Create a movie poster for a film where a gorilla blends into a human city and thrives in intellectual labor. Text in Japanese. High information density.
@@ -1118,8 +1497,21 @@ Author: 世界のたまちゃん @TAMAnoASOBIBA<br>Channel: x<br>Date: 2026-04-2
 
 </details>
 
-<details>
-<summary><strong>57. Sagittarius Dissection: A Steampunk Exploration</strong> · Prompt · Chinese</summary>
+### 57. Sagittarius Dissection: A Steampunk Exploration
+
+![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068.jpg)
+
+<details><summary>More images</summary>
+
+![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-1.jpg)
+
+![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-2.jpg)
+
+![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
@@ -1129,8 +1521,17 @@ Author: @GeekCatX<br>Channel: promptgather<br>Source: [https://promptgather.io/p
 
 </details>
 
-<details>
-<summary><strong>58. The Eight Immortals in Timeless Detail</strong> · Prompt · Chinese</summary>
+### 58. The Eight Immortals in Timeless Detail
+
+![The Eight Immortals in Timeless Detail](images/058-raw_20260423_promptgather_prompt_057.jpg)
+
+<details><summary>More images</summary>
+
+![The Eight Immortals in Timeless Detail](images/058-raw_20260423_promptgather_prompt_057-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 （国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
@@ -1140,8 +1541,11 @@ Author: @GeekCatX<br>Channel: promptgather<br>Source: [https://promptgather.io/p
 
 </details>
 
-<details>
-<summary><strong>59. 小悪魔リリムリリィ 游戏海报</strong> · Prompt · Japanese</summary>
+### 59. 小悪魔リリムリリィ 游戏海报
+
+![小悪魔リリムリリィ 游戏海报](images/059-raw_20260423_xiaohongshu_prompt_002.webp)
+
+<details><summary>Prompt · Japanese</summary>
 
 ```text
 小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
@@ -1151,8 +1555,19 @@ Author: 爱分享的寿司酱<br>Channel: xiaohongshu<br>Date: 2026-04-23<br>Sou
 
 </details>
 
-<details>
-<summary><strong>69. 西楚霸王·项羽 双重曝光史诗海报</strong> · Prompt · Chinese</summary>
+### 69. 西楚霸王·项羽 双重曝光史诗海报
+
+![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009.webp)
+
+<details><summary>More images</summary>
+
+![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009-extra-1.webp)
+
+![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009-extra-2.webp)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 生成一张高完成度、收藏版、史诗叙事感的艺术海报，主题为《西楚霸王·项羽》。采用双重曝光式剪影叙事构图：以一位古代霸主的巨大侧脸剪影作为整体外轮廓，人物形象为项羽，气质雄浑、桀骜、悲壮且不可一世，眉目凌厉，带有英雄末路的苍凉感；发丝飞扬，披风猎猎，在风中翻卷，呈现出强烈的战场张力与宿命压迫感。
@@ -1166,8 +1581,11 @@ Author: 山野的云<br>Channel: xiaohongshu<br>Date: 2026-04-23<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>73. 阿马尔菲海岸复古旅行海报</strong> · Prompt · Chinese</summary>
+### 73. 阿马尔菲海岸复古旅行海报
+
+![阿马尔菲海岸复古旅行海报](images/073-raw_20260423_gptimg2-ai_prompt_032.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 意大利阿马尔菲海岸复古旅行海报插图的现代铅笔插图，全景沿海悬崖路场景，经典的 1960 年代白色汽车沿着弯曲的海滨路行驶，深蓝色的地中海与小帆船，色彩缤纷的柔和山坡村庄，明亮的蓝天与柔软的云彩，柠檬树枝与充满活力的黄色柠檬构成前景，温暖的夏日阳光，大胆鲜艳的色彩，复古 1950 年代旅行海报风格，电影构图，高细节，丝网印刷纹理，图形插图。手绘风格，插图具有宽松的笔画和明确的轮廓。高对比度调色板，保持背景和元素之间的色彩和谐。当代和装饰美学。
@@ -1177,8 +1595,17 @@ Author: @WolfRiccardo<br>Channel: gptimg2-ai<br>Date: 2026-04-15<br>Source: [htt
 
 </details>
 
-<details>
-<summary><strong>82. Celestial Harmony: The Eastern Fantasy Warrior</strong> · Prompt · Chinese</summary>
+### 82. Celestial Harmony: The Eastern Fantasy Warrior
+
+![Celestial Harmony: The Eastern Fantasy Warrior](images/082-raw_20260423_promptgather_prompt_047.jpg)
+
+<details><summary>More images</summary>
+
+![Celestial Harmony: The Eastern Fantasy Warrior](images/082-raw_20260423_promptgather_prompt_047-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 请创作一幅【人物角色】使用【乐器或武器】的东方幻想人物概念插画。
@@ -1199,8 +1626,17 @@ Author: @MrLarus<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [https:
 
 </details>
 
-<details>
-<summary><strong>92. A Journey Through Time: The Astronaut in 20 Art Styles</strong> · Prompt · English</summary>
+### 92. A Journey Through Time: The Astronaut in 20 Art Styles
+
+![A Journey Through Time: The Astronaut in 20 Art Styles](images/092-raw_20260423_promptgather_prompt_072.jpg)
+
+<details><summary>More images</summary>
+
+![A Journey Through Time: The Astronaut in 20 Art Styles](images/092-raw_20260423_promptgather_prompt_072-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Pick a fictional female astronaut: Depict the same fictional female astronaut character in 20 different iconic art styles — Renaissance oil painting, ukiyo-e woodblock, Art Nouveau, Bauhaus, Soviet propaganda poster, comic book halftone, watercolor botanical, pixel art, vaporwave, Impressionist, Surrealist, Brutalist graphic design, Studio Ghibli, noir, cubism, pointillism, pop art, medieval illuminated manuscript, Art Deco, and photorealism — arranged in a 4 × 5 grid. She must be recognizably the same person in every tile. Label each style.
@@ -1210,8 +1646,21 @@ Author: @Gdgtify<br>Channel: promptgather<br>Source: [https://promptgather.io/pr
 
 </details>
 
-<details>
-<summary><strong>97. Noir Ink Dissolve Portrait with Red Halo</strong> · Prompt · English</summary>
+### 97. Noir Ink Dissolve Portrait with Red Halo
+
+![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040.jpg)
+
+<details><summary>More images</summary>
+
+![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-1.jpg)
+
+![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-2.jpg)
+
+![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Subject & Composition:
@@ -1247,8 +1696,11 @@ Author: @Goodmanprotocol<br>Channel: promptgather<br>Source: [https://promptgath
 
 ## Character Illustration
 
-<details>
-<summary><strong>11. Japanese Shonen Manga Sample Page</strong> · Prompt · English</summary>
+### 11. Japanese Shonen Manga Sample Page
+
+![Japanese Shonen Manga Sample Page](images/011-raw_20260423_x_prompt_006.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Make a sample page of a colorized Japanese shonen adventure manga. The page should vividly depict our main character found a magical quill. The name of the quill is called the Quill of GPT Image. Make it dramatic. The magical quill has strong power sealed inside it.
@@ -1260,8 +1712,11 @@ Author: @dotey<br>Channel: x<br>Date: 2026-04-22<br>Source: [https://x.com/dotey
 
 </details>
 
-<details>
-<summary><strong>18. 博物馆风汉服拆解信息图</strong> · Prompt · Chinese</summary>
+### 18. 博物馆风汉服拆解信息图
+
+![博物馆风汉服拆解信息图](images/018-raw_20260423_gptimg2-ai_prompt_045.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 根据所选主题，自动生成博物馆风格的中文细分信息图。图像必须结合真实的英雄视觉、分解的结构分析、中文标注标签、材料注释、图案象征意义、颜色含义以及对核心特征的简洁概括。你应该从主题本身推断出最合适的主要对象、服装系统、器物结构、时期风格、重要组成部分、材料工艺、配色方案和布局逻辑，因此用户不需要提供其他任何东西。
@@ -1284,8 +1739,11 @@ Author: @MrLarus<br>Channel: gptimg2-ai<br>Date: 2026-04-18<br>Source: [https://
 
 </details>
 
-<details>
-<summary><strong>33. Chinese Text Manga About GPT Image 2</strong> · Prompt · Chinese</summary>
+### 33. Chinese Text Manga About GPT Image 2
+
+![Chinese Text Manga About GPT Image 2](images/033-raw_20260423_x_prompt_007.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈博远 (first picture), who works on improving the text rendering capability of ChatGPT Image 2 model for the upcoming release. (in the background there is boba tea and a banana taped to the wall with a single slice of duct tape). The model can render insanely small Chinese text when he tried generating some detailed and beautiful multilingual infographics handdrawn-style poster about his hometown, 无锡 on his computer screen. His hard work pays off and the team was impressed by the absurdly good quality of multilingual text performance of his model, seeing all the languages it can write. When he takes a break with one hand holding his phone, he received a translated text message from Sam Altman on his phone (avatar attached as second picture), asking him to take a look at the rendered multilingual text in an image he just generated to congrat the team, since Sam only knows English. However, make it funny by let Boyuan outrage (typical manga style) at the end by seeing Sam's generated image contains a "稳稳地接住你" phrase at the central location in an otherwise perfectly rendered image that's used to congrat the team, because this sentence has been memed as an unnatural but funny Chinese sentence GPT likes to use on Chinese internet. Boyuan should rage "天呐! 它又学会了接住!" (with teammates as tiny heads on the side, sweating and saying in Chinese"we are working hard to fix it！"). At the very bottom of the manga, add a tiny line of footnote (very tiny)in Chinese that "note: the entire manga, including this footnote and picture in picture, are all generated with gpt image 2 at once without editing or multiple steps。"
@@ -1297,8 +1755,17 @@ Author: @dotey<br>Channel: x<br>Date: 2026-04-22<br>Source: [https://x.com/dotey
 
 </details>
 
-<details>
-<summary><strong>62. The Journey of Creation in Three Acts</strong> · Prompt · English</summary>
+### 62. The Journey of Creation in Three Acts
+
+![The Journey of Creation in Three Acts](images/062-raw_20260423_promptgather_prompt_005.jpg)
+
+<details><summary>More images</summary>
+
+![The Journey of Creation in Three Acts](images/062-raw_20260423_promptgather_prompt_005-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 [Character Actions]. The image is divided into three horizontal panels. The top panel shows the beginning of the action, the middle panel shows the action in progress, and the bottom panel shows the conclusion of the action. No text.
@@ -1310,8 +1777,11 @@ Author: @promptsref<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [htt
 
 ## Illustration
 
-<details>
-<summary><strong>12. Kawaii Culture: A Sticker Sheet Journey</strong> · Prompt · English</summary>
+### 12. Kawaii Culture: A Sticker Sheet Journey
+
+![Kawaii Culture: A Sticker Sheet Journey](images/012-raw_20260423_promptgather_prompt_053.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Design a cute kawaii sticker pack featuring famous things from [COUNTRY], including iconic food, landmarks, and traditional objects, all with adorable faces, soft pastel colors, rounded shapes, minimal shading, chibi style, glossy sticker finish, high resolution, arranged as a sticker sheet
@@ -1321,8 +1791,11 @@ Author: @aleenaamiir<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [ht
 
 </details>
 
-<details>
-<summary><strong>43. 涂鸦速写风 AI Builder Prompt</strong> · Prompt · Chinese</summary>
+### 43. 涂鸦速写风 AI Builder Prompt
+
+![涂鸦速写风 AI Builder Prompt](images/043-raw_20260423_xiaohongshu_prompt_001.webp)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
@@ -1334,8 +1807,11 @@ Author: 爱分享的寿司酱<br>Channel: xiaohongshu<br>Date: 2026-04-23<br>Sou
 
 ## 3D Scene
 
-<details>
-<summary><strong>13. Fragmented Thoughts in Cosmic Reflection</strong> · Prompt · English</summary>
+### 13. Fragmented Thoughts in Cosmic Reflection
+
+![Fragmented Thoughts in Cosmic Reflection](images/013-raw_20260423_promptgather_prompt_067.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 {'subject': 'A handsome young man with curly brown hair and green eyes, resting his chin on his hand with a thoughtful expression.', 'concept': "Surreal deconstruction. The subject's face and upper body are being fragmented into a series of floating, 3D metallic cubes.", 'visual_effects': {'reflections': 'Chrome and bronze mirrored surfaces on the cubes, reflecting parts of the subject and a cosmic background.', 'atmosphere': 'Dust particles and small debris floating in a dark, warm-toned nebular space.', 'lighting': 'Cinematic side-lighting with high contrast and golden hour highlights.'}, 'style': 'Hyper-realistic digital art, fine art photography, octane render, 8k resolution.'}
@@ -1345,8 +1821,17 @@ Author: @Minahil42298354<br>Channel: promptgather<br>Source: [https://promptgath
 
 </details>
 
-<details>
-<summary><strong>44. Tesla Optimus: Manga Meets Reality</strong> · Prompt · English</summary>
+### 44. Tesla Optimus: Manga Meets Reality
+
+![Tesla Optimus: Manga Meets Reality](images/044-raw_20260423_promptgather_prompt_006.jpg)
+
+<details><summary>More images</summary>
+
+![Tesla Optimus: Manga Meets Reality](images/044-raw_20260423_promptgather_prompt_006-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 do this for Tesla Optimus Robot 
@@ -1357,8 +1842,11 @@ Author: @Gdgtify<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [https:
 
 </details>
 
-<details>
-<summary><strong>53. Isometric Weather Miniature of Shanghai Skyline</strong> · Prompt · Chinese</summary>
+### 53. Isometric Weather Miniature of Shanghai Skyline
+
+![Isometric Weather Miniature of Shanghai Skyline](images/053-raw_20260423_promptgather_prompt_056.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
@@ -1379,8 +1867,11 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>67. A Tapestry of Cultures: 16x16 Historical Showcase</strong> · Prompt · English</summary>
+### 67. A Tapestry of Cultures: 16x16 Historical Showcase
+
+![A Tapestry of Cultures: 16x16 Historical Showcase](images/067-raw_20260423_promptgather_prompt_032.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 So I have been trying all kinds of prompts with GPT Image 2.0 to see how much I can push it. It can technically do 20x20 but it struggles with the text. It does well with 15x15. Here is a 16x16 image: 
@@ -1392,8 +1883,17 @@ Author: @Gdgtify<br>Channel: promptgather<br>Source: [https://promptgather.io/pr
 
 </details>
 
-<details>
-<summary><strong>70. Radiant Elegance: A Portrait of Confidence</strong> · Prompt · English</summary>
+### 70. Radiant Elegance: A Portrait of Confidence
+
+![Radiant Elegance: A Portrait of Confidence](images/070-raw_20260423_promptgather_prompt_020.jpg)
+
+<details><summary>More images</summary>
+
+![Radiant Elegance: A Portrait of Confidence](images/070-raw_20260423_promptgather_prompt_020-extra-1.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 {'prompt': 'Studio portrait of a young adult woman with long wavy red hair and fair freckled skin, wearing a black sequined strapless mini dress and thigh-high black boots. She is seated on the floor in a relaxed yet confident pose, facing forward with a soft, neutral expression. A black ribbon choker drapes loosely around her neck. The scene is lit with warm, golden studio lighting that creates a circular spotlight effect behind her, casting soft shadows and adding depth. Minimalist background, editorial fashion photography style, high detail, cinematic warmth, smooth gradients.', 'negative_prompt': 'lowres, blurry, bad anatomy, extra limbs, deformed hands, distorted face, harsh shadows, overexposed, underexposed, watermark, text, logo, jpeg artifacts, cartoon, CGI, 3D render', 'style': 'editorial fashion photography, photorealistic', 'camera': {'angle': 'eye-level', 'framing': 'three-quarter body portrait', 'lens': '85mm', 'aperture': 'f/2.0'}, 'lighting': {'type': 'studio lighting', 'setup': 'warm spotlight with soft falloff', 'mood': 'cinematic and intimate'}, 'setting': {'location': 'studio', 'background': 'warm gradient backdrop with circular light vignette'}, 'color_palette': ['black', 'warm gold', 'amber', 'soft beige'], 'size': '768x1152'}
@@ -1405,8 +1905,23 @@ Author: @mizq06<br>Channel: promptgather<br>Date: 2026-04-22<br>Source: [https:/
 
 ## Copy-paste Library
 
-<details>
-<summary><strong>29. Virtual try-on through openai/gpt-image-2/edit</strong> · Prompt · English</summary>
+### 29. Virtual try-on through openai/gpt-image-2/edit
+
+![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004.png)
+
+<details><summary>More images</summary>
+
+![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-1.png)
+
+![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-2.png)
+
+![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-3.png)
+
+![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-4.png)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Image 1: the woman to preserve.
@@ -1426,8 +1941,11 @@ Author: Ilker Izgi<br>Channel: fal-ai<br>Date: 2026-04-21<br>Source: [https://fa
 
 </details>
 
-<details>
-<summary><strong>36. Mobile app onboarding screen</strong> · Prompt · English</summary>
+### 36. Mobile app onboarding screen
+
+![Mobile app onboarding screen](images/036-raw_20260423_fal_prompt_008.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Create a vertical mobile onboarding screen for a fictional app called NESTING.
@@ -1446,8 +1964,11 @@ Author: Ilker Izgi<br>Channel: fal-ai<br>Date: 2026-04-21<br>Source: [https://fa
 
 ## Poster Template
 
-<details>
-<summary><strong>37. Epic Actor Career Poster Template</strong> · Template · English</summary>
+### 37. Epic Actor Career Poster Template
+
+![Epic Actor Career Poster Template](images/037-raw_20260423_x_template_001.jpg)
+
+<details><summary>Template · English</summary>
 
 ```text
 Create an epic poster showcasing the most iconic moments of (actors name) career. epic, cinematic, lens flare
@@ -1459,8 +1980,11 @@ Author: @dreamydigiarts<br>Channel: x<br>Date: 2026-04-23<br>Source: [https://x.
 
 ## Packaging
 
-<details>
-<summary><strong>46. Charming 3D Miniature: Starbucks Store Delight</strong> · Prompt · English</summary>
+### 46. Charming 3D Miniature: Starbucks Store Delight
+
+![Charming 3D Miniature: Starbucks Store Delight](images/046-raw_20260423_promptgather_prompt_051.jpg)
+
+<details><summary>Prompt · English</summary>
 
 ```text
 3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
@@ -1472,8 +1996,21 @@ Author: @dotey<br>Channel: promptgather<br>Source: [https://promptgather.io/prom
 
 </details>
 
-<details>
-<summary><strong>79. Print-Ready AI Packaging System for Yogurt Brand Concept</strong> · Prompt · English</summary>
+### 79. Print-Ready AI Packaging System for Yogurt Brand Concept
+
+![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049.jpg)
+
+<details><summary>More images</summary>
+
+![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-1.jpg)
+
+![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-2.jpg)
+
+![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-3.jpg)
+
+</details>
+
+<details><summary>Prompt · English</summary>
 
 ```text
 Meyveli yoğurt için bir marka konsepti kurmuş: Çiftlik, 
@@ -1510,8 +2047,11 @@ Author: @erhanmeydan<br>Channel: promptgather<br>Source: [https://promptgather.i
 
 ## Infographic Card Template
 
-<details>
-<summary><strong>55. Hand-drawn Infographic Card Template</strong> · Template · English</summary>
+### 55. Hand-drawn Infographic Card Template
+
+![Hand-drawn Infographic Card Template](images/055-raw_20260423_x_template_005.jpg)
+
+<details><summary>Template · English</summary>
 
 ```text
 Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background featuring subtle paper texture, conveying a friendly and handcrafted aesthetic.
@@ -1530,8 +2070,11 @@ Author: @dotey<br>Channel: x<br>Date: 2026-04-22<br>Source: [https://x.com/dotey
 
 ## Text Rendering
 
-<details>
-<summary><strong>64. 无冠手表密封盒</strong> · Prompt · Chinese</summary>
+### 64. 无冠手表密封盒
+
+![无冠手表密封盒](images/064-raw_20260423_gptimg2-ai_prompt_029.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 第 1 阶段 — 形式：[手表风格]，具有完美光滑的密封表壳 — 无表冠、无按钮、无开口
@@ -1549,8 +2092,11 @@ Author: @SRKDAN<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [https://x
 
 </details>
 
-<details>
-<summary><strong>88. 35mm 闪光灯编辑肖像</strong> · Prompt · Chinese</summary>
+### 88. 35mm 闪光灯编辑肖像
+
+![35mm 闪光灯编辑肖像](images/088-raw_20260423_gptimg2-ai_prompt_004.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 35mm彩色胶片摄影，严酷的机上闪光灯，皮肤和衣服上的镜面高光，眼睛的强烈聚光，高对比度的闪光照明，真实的胶片颗粒和色彩偏移，时尚清新无辜的篮球场编辑风格，亲密的第一人称低角度视角从下面拍摄，20岁出头的性感中国女偶像，超写实精致的中国特色，诱人的杏仁形狐狸眼，自然的双眼皮，高高的鼻梁，小尖的V形下颌线，完美无瑕的逼真瓷皮皮肤清凉的象牙色底色和明显的闪光镜面高光，细腻的肌肤纹理，微妙的毛孔微细节和闪光下的自然露水光泽，清新自然的运动妆容，柔和的水润光泽，脸颊上有微妙的自然红晕，自然的粉红色嘴唇微张，鼻子和脸颊上有微妙的自然雀斑，长长的深棕色头发扎成高俏皮的马尾辫，一些松散的发丝勾勒出脸型和逼真的松散的发丝，穿着宽松的白色背心和白色高腰篮球短裤，白色及膝运动袜，黄昏时室外球场上篮球架自然倾斜的诱人姿势，身体侧倾，背部自然拱起，臀部轻轻向后推，凸显挺括的圆臀和性感的臀部曲线，一腿自然向前伸向镜头，另一腿微弯，凸显修长性感双腿，双手轻轻搭在与肩同高的篮球杆上，极度诱惑的俏皮又可怜的母鹿般的目光直视着观众，眼神温柔脆弱渴望，充满安静诱惑和欲望的温柔挑逗的微笑，刺眼的机上直闪产生锐利的镜面高光和强烈的聚光灯，黄昏天空下模糊的篮球场和篮圈背景，自然闪光外观的高对比度胶片调色，极其锐利而柔软的皮肤渲染，真实的35毫米直闪美学，自然的发丝，背心和短裤上真实的织物纹理，带有袜子细节，无塑料皮肤，无数字过度锐化，无喷枪，无瑕疵，无痣，无油皮，无水印，无文字，正品35mm直闪膜篮球场外观--ar 9:16
@@ -1562,8 +2108,23 @@ Author: @BubbleBrain<br>Channel: gptimg2-ai<br>Date: 2026-04-17<br>Source: [http
 
 ## City Poster Template
 
-<details>
-<summary><strong>66. 中国城市宣传海报通用模板</strong> · Template · Chinese</summary>
+### 66. 中国城市宣传海报通用模板
+
+![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001.webp)
+
+<details><summary>More images</summary>
+
+![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-1.webp)
+
+![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-2.webp)
+
+![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-3.webp)
+
+![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-4.webp)
+
+</details>
+
+<details><summary>Template · Chinese</summary>
 
 ```text
 2026中国城市系列宣传海报，主题为【城市名】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合【城市名】地域文化定制。红绸延展为城市长卷，融合【地标1】【地标2】【地标3】【历史街区】【自然景观】【地域文化元素】。左侧排版SPRING 2026、【宣传语】、竖排【英文城市名】和小印章【城市简称】。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。
@@ -1575,8 +2136,11 @@ Author: 李李的AI实验室<br>Channel: xiaohongshu<br>Date: 2026-04-21<br>Sour
 
 ## Product Visual
 
-<details>
-<summary><strong>95. 无盖香水瓶</strong> · Prompt · Chinese</summary>
+### 95. 无盖香水瓶
+
+![无盖香水瓶](images/095-raw_20260423_gptimg2-ai_prompt_007.jpg)
+
+<details><summary>Prompt · Chinese</summary>
 
 ```text
 第 1 阶段 — 形状：固体[材料]玻璃泪滴，无盖，无喷嘴，无可见开口 — 气味透过玻璃渗透
@@ -1596,7 +2160,7 @@ Author: @SRKDAN<br>Channel: gptimg2-ai<br>Date: 2026-04-16<br>Source: [https://x
 
 ## Data
 
-The same 100 selected entries are available as structured JSON in [`data/prompts.json`](data/prompts.json).
+The same 100 selected entries are available as structured JSON in [`data/prompts.json`](data/prompts.json). Images are stored under [`images/`](images/).
 
 ## More
 
@@ -1604,4 +2168,4 @@ For a larger searchable gallery, prompt examples, and GPT Image 2 inspiration, v
 
 ## Attribution
 
-Prompts are collected from the project owner's current local prompt dataset. When author or source metadata exists, it is shown under each prompt. Please respect original platform and creator terms when reusing examples.
+Prompts and images are collected from the project owner's current local prompt dataset. When author or source metadata exists, it is shown under each prompt. Please respect original platform and creator terms when reusing examples.
