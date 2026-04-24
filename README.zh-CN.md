@@ -36,7 +36,7 @@
 
 ### 1. 白色影棚网球编辑人像
 
-![白色影棚网球编辑人像](images/001-raw_20260423_gptimg2-ai_prompt_052.jpg)
+<img src="images/001-raw_20260423_gptimg2-ai_prompt_052.jpg" alt="白色影棚网球编辑人像" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -50,7 +50,7 @@
 
 ### 24. Whispers of Soft Beauty by the Window
 
-![Whispers of Soft Beauty by the Window](images/024-raw_20260423_promptgather_prompt_073.jpg)
+<img src="images/024-raw_20260423_promptgather_prompt_073.jpg" alt="Whispers of Soft Beauty by the Window" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -64,7 +64,7 @@ Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure  Scen
 
 ### 25. Golden Hour Street Portrait
 
-![Golden Hour Street Portrait](images/025-raw_20260423_x_prompt_014.jpg)
+<img src="images/025-raw_20260423_x_prompt_014.jpg" alt="Golden Hour Street Portrait" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -78,7 +78,7 @@ Ricoh GR3 Negative film, early 20s Chinese beautiful internet celebrity, natural
 
 ### 27. Portrait By GPT-Image-2
 
-![Portrait By GPT-Image-2](images/027-raw_20260423_x_prompt_048.jpg)
+<img src="images/027-raw_20260423_x_prompt_048.jpg" alt="Portrait By GPT-Image-2" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -92,7 +92,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ### 28. Luxury Love in Paradise: A Perfect Selfie Moment
 
-![Luxury Love in Paradise: A Perfect Selfie Moment](images/028-raw_20260423_promptgather_prompt_015.jpg)
+<img src="images/028-raw_20260423_promptgather_prompt_015.jpg" alt="Luxury Love in Paradise: A Perfect Selfie Moment" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -106,7 +106,7 @@ ultra-realistic luxury commercial couple selfie portrait, eye-level close-up sho
 
 ### 39. Twitch Live Portrait
 
-![Twitch Live Portrait](images/039-raw_20260423_reddit_prompt_001.png)
+<img src="images/039-raw_20260423_reddit_prompt_001.png" alt="Twitch Live Portrait" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -120,7 +120,7 @@ a pretty 21 year old mixed girl on Twitch Live with headphones on
 
 ### 47. 35mm 模拟警察时尚人像
 
-![35mm 模拟警察时尚人像](images/047-raw_20260423_gptimg2-ai_prompt_049.jpg)
+<img src="images/047-raw_20260423_gptimg2-ai_prompt_049.jpg" alt="35mm 模拟警察时尚人像" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -142,7 +142,7 @@ a pretty 21 year old mixed girl on Twitch Live with headphones on
 
 ### 51. Elegant Ink: A Portrait of Depth and Detail
 
-![Elegant Ink: A Portrait of Depth and Detail](images/051-raw_20260423_promptgather_prompt_076.jpg)
+<img src="images/051-raw_20260423_promptgather_prompt_076.jpg" alt="Elegant Ink: A Portrait of Depth and Detail" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -156,7 +156,7 @@ A detailed black-and-white pen-and-ink portrait of a young woman in three-quarte
 
 ### 54. 实测GPT-image2超写实胶片人像，附提示词
 
-![实测GPT-image2超写实胶片人像，附提示词](images/054-raw_20260424_xiaohongshu_prompt_001.webp)
+<img src="images/054-raw_20260424_xiaohongshu_prompt_001.webp" alt="实测GPT-image2超写实胶片人像，附提示词" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -175,7 +175,7 @@ A detailed black-and-white pen-and-ink portrait of a young woman in three-quarte
 
 ### 71. Intimate Glimpse: A Korean Idol in Bloom
 
-![Intimate Glimpse: A Korean Idol in Bloom](images/071-raw_20260423_promptgather_prompt_066.jpg)
+<img src="images/071-raw_20260423_promptgather_prompt_066.jpg" alt="Intimate Glimpse: A Korean Idol in Bloom" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -211,7 +211,7 @@ quality: ultra-realistic, fine film grain, slight motion blur, imperfect framing
 
 ### 72. Surreal Charm: A Korean Idol in a Dreamy Perspective
 
-![Surreal Charm: A Korean Idol in a Dreamy Perspective](images/072-raw_20260423_promptgather_prompt_029.jpg)
+<img src="images/072-raw_20260423_promptgather_prompt_029.jpg" alt="Surreal Charm: A Korean Idol in a Dreamy Perspective" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -249,7 +249,7 @@ quality: ultra-realistic, fine film grain, slight softness, imperfect framing, n
 
 ### 74. Today's Portrait by GPT-Image-2
 
-![Today's Portrait by GPT-Image-2](images/074-raw_20260423_x_prompt_047.jpg)
+<img src="images/074-raw_20260423_x_prompt_047.jpg" alt="Today&#x27;s Portrait by GPT-Image-2" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -263,7 +263,7 @@ Analog 35mm film photography, high-fashion editorial portrait with intense on-ca
 
 ### 80. Enchanted Elegance: A Ghibli Princess by the Koi Pond
 
-![Enchanted Elegance: A Ghibli Princess by the Koi Pond](images/080-raw_20260423_promptgather_prompt_013.jpg)
+<img src="images/080-raw_20260423_promptgather_prompt_013.jpg" alt="Enchanted Elegance: A Ghibli Princess by the Koi Pond" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -277,7 +277,7 @@ Detailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming
 
 ### 85. 卧室镜子自拍人像
 
-![卧室镜子自拍人像](images/085-raw_20260423_gptimg2-ai_prompt_048.jpg)
+<img src="images/085-raw_20260423_gptimg2-ai_prompt_048.jpg" alt="卧室镜子自拍人像" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -292,13 +292,13 @@ Detailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming
 
 ### 87. Editorial Softlight Portrait in Minimal Studio
 
-![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041.jpg)
+<img src="images/087-raw_20260423_promptgather_prompt_041.jpg" alt="Editorial Softlight Portrait in Minimal Studio" height="360">
 
 <details><summary>更多图片</summary>
 
-![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041-extra-1.jpg)
+<img src="images/087-raw_20260423_promptgather_prompt_041-extra-1.jpg" alt="Editorial Softlight Portrait in Minimal Studio" height="360">
 
-![Editorial Softlight Portrait in Minimal Studio](images/087-raw_20260423_promptgather_prompt_041-extra-2.jpg)
+<img src="images/087-raw_20260423_promptgather_prompt_041-extra-2.jpg" alt="Editorial Softlight Portrait in Minimal Studio" height="360">
 
 </details>
 
@@ -314,7 +314,7 @@ Detailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming
 
 ### 91. Duality of Elegance: A Portrait Split by Artistic Vision
 
-![Duality of Elegance: A Portrait Split by Artistic Vision](images/091-raw_20260423_promptgather_prompt_017.jpg)
+<img src="images/091-raw_20260423_promptgather_prompt_017.jpg" alt="Duality of Elegance: A Portrait Split by Artistic Vision" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -333,7 +333,7 @@ The background is futuristic dreamy. The entire screen is effectively bright and
 
 ### 93. Night Street Cafe Flash Portrait
 
-![Night Street Cafe Flash Portrait](images/093-raw_20260423_reddit_prompt_002.jpg)
+<img src="images/093-raw_20260423_reddit_prompt_002.jpg" alt="Night Street Cafe Flash Portrait" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -347,7 +347,7 @@ Nighttime street photography of a young blonde woman sitting at an outdoor cafe,
 
 ### 94. Unleashed Fury: A Motocross Mastery in Motion
 
-![Unleashed Fury: A Motocross Mastery in Motion](images/094-raw_20260423_promptgather_prompt_074.jpg)
+<img src="images/094-raw_20260423_promptgather_prompt_074.jpg" alt="Unleashed Fury: A Motocross Mastery in Motion" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -366,7 +366,7 @@ Camera settings: low angle tracking shot, 85mm lens, f/2.8, fast shutter speed, 
 
 ### 96. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.
 
-![ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.](images/096-raw_20260424_x_prompt_020.jpg)
+<img src="images/096-raw_20260424_x_prompt_020.jpg" alt="ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning." height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -380,7 +380,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ### 99. 日本温泉旅馆人像
 
-![日本温泉旅馆人像](images/099-raw_20260423_gptimg2-ai_prompt_001.jpg)
+<img src="images/099-raw_20260423_gptimg2-ai_prompt_001.jpg" alt="日本温泉旅馆人像" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -394,13 +394,13 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ### 100. Avant-Garde Fashion: A Bold Statement in Paper
 
-![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083.jpg)
+<img src="images/100-raw_20260423_promptgather_prompt_083.jpg" alt="Avant-Garde Fashion: A Bold Statement in Paper" height="360">
 
 <details><summary>更多图片</summary>
 
-![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083-extra-1.jpg)
+<img src="images/100-raw_20260423_promptgather_prompt_083-extra-1.jpg" alt="Avant-Garde Fashion: A Bold Statement in Paper" height="360">
 
-![Avant-Garde Fashion: A Bold Statement in Paper](images/100-raw_20260423_promptgather_prompt_083-extra-2.jpg)
+<img src="images/100-raw_20260423_promptgather_prompt_083-extra-2.jpg" alt="Avant-Garde Fashion: A Bold Statement in Paper" height="360">
 
 </details>
 
@@ -427,7 +427,7 @@ Signature: XSydneyFan
 
 ### 2. New GPT Image 2 checkpoint
 
-![New GPT Image 2 checkpoint](images/002-raw_20260423_x_prompt_039.jpg)
+<img src="images/002-raw_20260423_x_prompt_039.jpg" alt="New GPT Image 2 checkpoint" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -441,7 +441,7 @@ Show me the attached image as a snapshot from an actual anime
 
 ### 3. 成都美食地图插画
 
-![成都美食地图插画](images/003-raw_20260423_gptimg2-ai_prompt_002.jpg)
+<img src="images/003-raw_20260423_gptimg2-ai_prompt_002.jpg" alt="成都美食地图插画" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -455,7 +455,7 @@ Show me the attached image as a snapshot from an actual anime
 
 ### 5. #AIart #AIイラスト GPT-image-2 test
 
-![#AIart #AIイラスト GPT-image-2 test](images/005-raw_20260424_x_prompt_008.jpg)
+<img src="images/005-raw_20260424_x_prompt_008.jpg" alt="#AIart #AIイラスト GPT-image-2 test" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -469,7 +469,7 @@ Two girls with a fated grudge, anime illustration
 
 ### 9. 无缝夹克平铺图
 
-![无缝夹克平铺图](images/009-raw_20260423_gptimg2-ai_prompt_051.jpg)
+<img src="images/009-raw_20260423_gptimg2-ai_prompt_051.jpg" alt="无缝夹克平铺图" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -491,7 +491,7 @@ Two girls with a fated grudge, anime illustration
 
 ### 14. 打乱魔方的镜面反射
 
-![打乱魔方的镜面反射](images/014-raw_20260423_gptimg2-ai_prompt_012.jpg)
+<img src="images/014-raw_20260423_gptimg2-ai_prompt_012.jpg" alt="打乱魔方的镜面反射" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -505,11 +505,11 @@ Two girls with a fated grudge, anime illustration
 
 ### 16. GPT Image 2 vs GPT Image 1.5
 
-![GPT Image 2 vs GPT Image 1.5](images/016-raw_20260423_x_prompt_028.jpg)
+<img src="images/016-raw_20260423_x_prompt_028.jpg" alt="GPT Image 2 vs GPT Image 1.5" height="360">
 
 <details><summary>更多图片</summary>
 
-![GPT Image 2 vs GPT Image 1.5](images/016-raw_20260423_x_prompt_028-extra-1.jpg)
+<img src="images/016-raw_20260423_x_prompt_028-extra-1.jpg" alt="GPT Image 2 vs GPT Image 1.5" height="360">
 
 </details>
 
@@ -525,11 +525,11 @@ A realistic photo of an open dotted notebook lying flat, filled with dense handw
 
 ### 17. ECHO SKIN: The Future of Neural Visors Unveiled
 
-![ECHO SKIN: The Future of Neural Visors Unveiled](images/017-raw_20260423_promptgather_prompt_071.jpg)
+<img src="images/017-raw_20260423_promptgather_prompt_071.jpg" alt="ECHO SKIN: The Future of Neural Visors Unveiled" height="360">
 
 <details><summary>更多图片</summary>
 
-![ECHO SKIN: The Future of Neural Visors Unveiled](images/017-raw_20260423_promptgather_prompt_071-extra-1.jpg)
+<img src="images/017-raw_20260423_promptgather_prompt_071-extra-1.jpg" alt="ECHO SKIN: The Future of Neural Visors Unveiled" height="360">
 
 </details>
 
@@ -550,13 +550,13 @@ OUTPUT: 6 identical visuals, text translated into English, Spanish, Traditional 
 
 ### 19. Tropical Sparkling Water in Sunlit Sand
 
-![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004.jpg)
+<img src="images/019-raw_20260423_promptgather_prompt_004.jpg" alt="Tropical Sparkling Water in Sunlit Sand" height="360">
 
 <details><summary>更多图片</summary>
 
-![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004-extra-1.jpg)
+<img src="images/019-raw_20260423_promptgather_prompt_004-extra-1.jpg" alt="Tropical Sparkling Water in Sunlit Sand" height="360">
 
-![Tropical Sparkling Water in Sunlit Sand](images/019-raw_20260423_promptgather_prompt_004-extra-2.jpg)
+<img src="images/019-raw_20260423_promptgather_prompt_004-extra-2.jpg" alt="Tropical Sparkling Water in Sunlit Sand" height="360">
 
 </details>
 
@@ -586,7 +586,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 ### 22. Wow, I'm really impressed by the text rendering quality of GPT Image 2. It looks like a real screens
 
-![Wow, I'm really impressed by the text rendering quality of GPT Image 2. It looks like a real screens](images/022-raw_20260423_x_prompt_029.jpg)
+<img src="images/022-raw_20260423_x_prompt_029.jpg" alt="Wow, I&#x27;m really impressed by the text rendering quality of GPT Image 2. It looks like a real screens" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -600,7 +600,7 @@ Screenshot of the Yahoo homepage.
 
 ### 23. ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.
 
-![ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning.](images/023-raw_20260423_x_prompt_036.jpg)
+<img src="images/023-raw_20260423_x_prompt_036.jpg" alt="ChatGPT GPT 2 Image The texture and aesthetic appeal of the characters are absolutely stunning." height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -614,13 +614,13 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ### 26. Dissection of Culinary Marvels: A Botanical Journey
 
-![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030.jpg)
+<img src="images/026-raw_20260423_promptgather_prompt_030.jpg" alt="Dissection of Culinary Marvels: A Botanical Journey" height="360">
 
 <details><summary>更多图片</summary>
 
-![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030-extra-1.jpg)
+<img src="images/026-raw_20260423_promptgather_prompt_030-extra-1.jpg" alt="Dissection of Culinary Marvels: A Botanical Journey" height="360">
 
-![Dissection of Culinary Marvels: A Botanical Journey](images/026-raw_20260423_promptgather_prompt_030-extra-2.jpg)
+<img src="images/026-raw_20260423_promptgather_prompt_030-extra-2.jpg" alt="Dissection of Culinary Marvels: A Botanical Journey" height="360">
 
 </details>
 
@@ -681,7 +681,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ### 30. gpt image 2生成创意插画：锦鲤。
 
-![gpt image 2生成创意插画：锦鲤。](images/030-raw_20260423_x_prompt_043.jpg)
+<img src="images/030-raw_20260423_x_prompt_043.jpg" alt="gpt image 2生成创意插画：锦鲤。" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -695,17 +695,17 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ### 32. GPT Image 2
 
-![GPT Image 2](images/032-raw_20260424_x_prompt_022.jpg)
+<img src="images/032-raw_20260424_x_prompt_022.jpg" alt="GPT Image 2" height="360">
 
 <details><summary>更多图片</summary>
 
-![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-1.jpg)
+<img src="images/032-raw_20260424_x_prompt_022-extra-1.jpg" alt="GPT Image 2" height="360">
 
-![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-2.jpg)
+<img src="images/032-raw_20260424_x_prompt_022-extra-2.jpg" alt="GPT Image 2" height="360">
 
-![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-3.jpg)
+<img src="images/032-raw_20260424_x_prompt_022-extra-3.jpg" alt="GPT Image 2" height="360">
 
-![GPT Image 2](images/032-raw_20260424_x_prompt_022-extra-4.jpg)
+<img src="images/032-raw_20260424_x_prompt_022-extra-4.jpg" alt="GPT Image 2" height="360">
 
 </details>
 
@@ -721,11 +721,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 34. WOW!!! New GPT-Image insane!!
 
-![WOW!!! New GPT-Image insane!!](images/034-raw_20260424_x_prompt_012.jpg)
+<img src="images/034-raw_20260424_x_prompt_012.jpg" alt="WOW!!! New GPT-Image insane!!" height="360">
 
 <details><summary>更多图片</summary>
 
-![WOW!!! New GPT-Image insane!!](images/034-raw_20260424_x_prompt_012-extra-1.jpg)
+<img src="images/034-raw_20260424_x_prompt_012-extra-1.jpg" alt="WOW!!! New GPT-Image insane!!" height="360">
 
 </details>
 
@@ -746,7 +746,7 @@ PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74
 
 ### 40. Today's Portrait by GPT-Image-2
 
-![Today's Portrait by GPT-Image-2](images/040-raw_20260424_x_prompt_004.jpg)
+<img src="images/040-raw_20260424_x_prompt_004.jpg" alt="Today&#x27;s Portrait by GPT-Image-2" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -760,7 +760,7 @@ PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74
 
 ### 42. 太祖李成桂 X 页面
 
-![太祖李成桂 X 页面](images/042-raw_20260423_gptimg2-ai_prompt_050.jpg)
+<img src="images/042-raw_20260423_gptimg2-ai_prompt_050.jpg" alt="太祖李成桂 X 页面" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -774,17 +774,17 @@ PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74
 
 ### 45. 模型：gpt-image-2
 
-![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024.jpg)
+<img src="images/045-raw_20260423_x_prompt_024.jpg" alt="模型：gpt-image-2" height="360">
 
 <details><summary>更多图片</summary>
 
-![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-1.jpg)
+<img src="images/045-raw_20260423_x_prompt_024-extra-1.jpg" alt="模型：gpt-image-2" height="360">
 
-![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-2.jpg)
+<img src="images/045-raw_20260423_x_prompt_024-extra-2.jpg" alt="模型：gpt-image-2" height="360">
 
-![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-3.jpg)
+<img src="images/045-raw_20260423_x_prompt_024-extra-3.jpg" alt="模型：gpt-image-2" height="360">
 
-![模型：gpt-image-2](images/045-raw_20260423_x_prompt_024-extra-4.jpg)
+<img src="images/045-raw_20260423_x_prompt_024-extra-4.jpg" alt="模型：gpt-image-2" height="360">
 
 </details>
 
@@ -800,7 +800,7 @@ PAC 94 SHO 91 PAS 93 DRI 96 DEF 44 PHY 74
 
 ### 48. Pixelated Treats: The Ultimate Summer Indulgence
 
-![Pixelated Treats: The Ultimate Summer Indulgence](images/048-raw_20260423_promptgather_prompt_011.jpg)
+<img src="images/048-raw_20260423_promptgather_prompt_011.jpg" alt="Pixelated Treats: The Ultimate Summer Indulgence" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -816,7 +816,7 @@ The hand of the person holding the ice cream is clear, enhancing the realism of 
 
 ### 49. 折射 Sans Crystal 字体
 
-![折射 Sans Crystal 字体](images/049-raw_20260423_gptimg2-ai_prompt_053.jpg)
+<img src="images/049-raw_20260423_gptimg2-ai_prompt_053.jpg" alt="折射 Sans Crystal 字体" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -838,7 +838,7 @@ The hand of the person holding the ice cream is clear, enhancing the realism of 
 
 ### 50. GPT Image 2 Generate Creative Illustration: Koi Fish.
 
-![GPT Image 2 Generate Creative Illustration: Koi Fish.](images/050-raw_20260424_x_prompt_028.jpg)
+<img src="images/050-raw_20260424_x_prompt_028.jpg" alt="GPT Image 2 Generate Creative Illustration: Koi Fish." height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -854,15 +854,15 @@ The overall composition presents a strong contrast in scale, with an ethereal an
 
 ### 52. Whimsical Crayon Dreams
 
-![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018.jpg)
+<img src="images/052-raw_20260423_promptgather_prompt_018.jpg" alt="Whimsical Crayon Dreams" height="360">
 
 <details><summary>更多图片</summary>
 
-![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-1.jpg)
+<img src="images/052-raw_20260423_promptgather_prompt_018-extra-1.jpg" alt="Whimsical Crayon Dreams" height="360">
 
-![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-2.jpg)
+<img src="images/052-raw_20260423_promptgather_prompt_018-extra-2.jpg" alt="Whimsical Crayon Dreams" height="360">
 
-![Whimsical Crayon Dreams](images/052-raw_20260423_promptgather_prompt_018-extra-3.jpg)
+<img src="images/052-raw_20260423_promptgather_prompt_018-extra-3.jpg" alt="Whimsical Crayon Dreams" height="360">
 
 </details>
 
@@ -878,7 +878,7 @@ The overall composition presents a strong contrast in scale, with an ethereal an
 
 ### 56. GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12
 
-![GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12](images/056-raw_20260423_x_prompt_021.jpg)
+<img src="images/056-raw_20260423_x_prompt_021.jpg" alt="GPT Image 2提示词：一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -892,11 +892,11 @@ The overall composition presents a strong contrast in scale, with an ethereal an
 
 ### 60. (Left) Nano Banana 2 vs New GPT-Image (Right)
 
-![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/060-raw_20260423_x_prompt_040.jpg)
+<img src="images/060-raw_20260423_x_prompt_040.jpg" alt="(Left) Nano Banana 2 vs New GPT-Image (Right)" height="360">
 
 <details><summary>更多图片</summary>
 
-![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/060-raw_20260423_x_prompt_040-extra-1.jpg)
+<img src="images/060-raw_20260423_x_prompt_040-extra-1.jpg" alt="(Left) Nano Banana 2 vs New GPT-Image (Right)" height="360">
 
 </details>
 
@@ -913,11 +913,11 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 
 ### 61. (Left) Nano Banana 2 vs New GPT-Image (Right)
 
-![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/061-raw_20260424_x_prompt_025.jpg)
+<img src="images/061-raw_20260424_x_prompt_025.jpg" alt="(Left) Nano Banana 2 vs New GPT-Image (Right)" height="360">
 
 <details><summary>更多图片</summary>
 
-![(Left) Nano Banana 2 vs New GPT-Image (Right)](images/061-raw_20260424_x_prompt_025-extra-1.jpg)
+<img src="images/061-raw_20260424_x_prompt_025-extra-1.jpg" alt="(Left) Nano Banana 2 vs New GPT-Image (Right)" height="360">
 
 </details>
 
@@ -934,11 +934,11 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 
 ### 63. 用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2
 
-![用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2](images/063-raw_20260423_x_prompt_035.jpg)
+<img src="images/063-raw_20260423_x_prompt_035.jpg" alt="用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2" height="360">
 
 <details><summary>更多图片</summary>
 
-![用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2](images/063-raw_20260423_x_prompt_035-extra-1.jpg)
+<img src="images/063-raw_20260423_x_prompt_035-extra-1.jpg" alt="用当时经典的 nano banana pro的提示词测试一下chatgpt-image-2" height="360">
 
 </details>
 
@@ -954,7 +954,7 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 
 ### 68. Today's Portrait by GPT-Image-2
 
-![Today's Portrait by GPT-Image-2](images/068-raw_20260423_x_prompt_023.jpg)
+<img src="images/068-raw_20260423_x_prompt_023.jpg" alt="Today&#x27;s Portrait by GPT-Image-2" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -968,7 +968,7 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 
 ### 75. Moonlit Song Dynasty River Through Wooden Window
 
-![Moonlit Song Dynasty River Through Wooden Window](images/075-raw_20260423_promptgather_prompt_022.jpg)
+<img src="images/075-raw_20260423_promptgather_prompt_022.jpg" alt="Moonlit Song Dynasty River Through Wooden Window" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -986,7 +986,7 @@ A subway station in USA, a momentary blur. The subway is in motion. In front of 
 
 ### 77. Chronicles of Innovation: A Visual Journey Through Time
 
-![Chronicles of Innovation: A Visual Journey Through Time](images/077-raw_20260423_promptgather_prompt_080.jpg)
+<img src="images/077-raw_20260423_promptgather_prompt_080.jpg" alt="Chronicles of Innovation: A Visual Journey Through Time" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1000,7 +1000,7 @@ Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique
 
 ### 81. 超现实锦鲤星云插画
 
-![超现实锦鲤星云插画](images/081-raw_20260423_gptimg2-ai_prompt_044.jpg)
+<img src="images/081-raw_20260423_gptimg2-ai_prompt_044.jpg" alt="超现实锦鲤星云插画" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1014,7 +1014,7 @@ Make a 15×15 grid starting with 1000 BC to 2026. In each section, show a unique
 
 ### 83. 蒂姆·库克苹果公园主题演讲
 
-![蒂姆·库克苹果公园主题演讲](images/083-raw_20260423_gptimg2-ai_prompt_010.jpg)
+<img src="images/083-raw_20260423_gptimg2-ai_prompt_010.jpg" alt="蒂姆·库克苹果公园主题演讲" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1028,7 +1028,7 @@ iPhone 20 主题演讲期间在 Apple Park 拍摄的业余 iPhone 照片，蒂�
 
 ### 86. 朱莉安娜东京泡沫时代舞池
 
-![朱莉安娜东京泡沫时代舞池](images/086-raw_20260423_gptimg2-ai_prompt_059.webp)
+<img src="images/086-raw_20260423_gptimg2-ai_prompt_059.webp" alt="朱莉安娜东京泡沫时代舞池" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1042,7 +1042,7 @@ iPhone 20 主题演讲期间在 Apple Park 拍摄的业余 iPhone 照片，蒂�
 
 ### 89. gpt image 2生成图片：东方美学。
 
-![gpt image 2生成图片：东方美学。](images/089-raw_20260424_x_prompt_017.jpg)
+<img src="images/089-raw_20260424_x_prompt_017.jpg" alt="gpt image 2生成图片：东方美学。" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1064,7 +1064,7 @@ iPhone 20 主题演讲期间在 Apple Park 拍摄的业余 iPhone 照片，蒂�
 
 ### 90. Is this gpt image 2?
 
-![Is this gpt image 2?](images/090-raw_20260423_x_prompt_032.jpg)
+<img src="images/090-raw_20260423_x_prompt_032.jpg" alt="Is this gpt image 2?" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1078,7 +1078,7 @@ Sam Altman on a skateboard at a skatepark with no people.
 
 ### 98. #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎
 
-![#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎](images/098-raw_20260423_x_prompt_037.jpg)
+<img src="images/098-raw_20260423_x_prompt_037.jpg" alt="#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト︎" height="360">
 
 <details><summary>提示词 · 日文</summary>
 
@@ -1094,11 +1094,11 @@ Sam Altman on a skateboard at a skatepark with no people.
 
 ### 4. 916 Coser头像截图
 
-![916 Coser头像截图](images/004-raw_20260423_gptimg2-ai_prompt_026.jpg)
+<img src="images/004-raw_20260423_gptimg2-ai_prompt_026.jpg" alt="916 Coser头像截图" height="360">
 
 <details><summary>更多图片</summary>
 
-![916 Coser头像截图](images/004-raw_20260423_gptimg2-ai_prompt_026-extra-1.jpg)
+<img src="images/004-raw_20260423_gptimg2-ai_prompt_026-extra-1.jpg" alt="916 Coser头像截图" height="360">
 
 </details>
 
@@ -1114,7 +1114,7 @@ Sam Altman on a skateboard at a skatepark with no people.
 
 ### 65. Isometric Google Stock Dashboard Miniature 3D Scene
 
-![Isometric Google Stock Dashboard Miniature 3D Scene](images/065-raw_20260423_promptgather_prompt_052.jpg)
+<img src="images/065-raw_20260423_promptgather_prompt_052.jpg" alt="Isometric Google Stock Dashboard Miniature 3D Scene" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1153,7 +1153,7 @@ Company Name: Google
 
 ### 6. FPSO Engineering Infographic
 
-![FPSO Engineering Infographic](images/006-raw_20260423_x_prompt_013.jpg)
+<img src="images/006-raw_20260423_x_prompt_013.jpg" alt="FPSO Engineering Infographic" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1167,11 +1167,11 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 15. 科普百科图模块化信息图模板
 
-![科普百科图模块化信息图模板](images/015-raw_20260423_xiaohongshu_template_004.webp)
+<img src="images/015-raw_20260423_xiaohongshu_template_004.webp" alt="科普百科图模块化信息图模板" height="360">
 
 <details><summary>更多图片</summary>
 
-![科普百科图模块化信息图模板](images/015-raw_20260423_xiaohongshu_template_004-extra-1.webp)
+<img src="images/015-raw_20260423_xiaohongshu_template_004-extra-1.webp" alt="科普百科图模块化信息图模板" height="360">
 
 </details>
 
@@ -1193,7 +1193,7 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 38. 数据科学与机器学习全景信息图
 
-![数据科学与机器学习全景信息图](images/038-raw_20260423_gptimg2-ai_prompt_020.webp)
+<img src="images/038-raw_20260423_gptimg2-ai_prompt_020.webp" alt="数据科学与机器学习全景信息图" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1207,7 +1207,7 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 41. Understanding Heart Attacks: A Detailed Infographic
 
-![Understanding Heart Attacks: A Detailed Infographic](images/041-raw_20260423_promptgather_prompt_034.jpg)
+<img src="images/041-raw_20260423_promptgather_prompt_034.jpg" alt="Understanding Heart Attacks: A Detailed Infographic" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1221,15 +1221,15 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 78. 建筑/城市/景观人群空间分析图模板
 
-![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002.webp)
+<img src="images/078-raw_20260423_xiaohongshu_template_002.webp" alt="建筑/城市/景观人群空间分析图模板" height="360">
 
 <details><summary>更多图片</summary>
 
-![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-1.webp)
+<img src="images/078-raw_20260423_xiaohongshu_template_002-extra-1.webp" alt="建筑/城市/景观人群空间分析图模板" height="360">
 
-![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-2.webp)
+<img src="images/078-raw_20260423_xiaohongshu_template_002-extra-2.webp" alt="建筑/城市/景观人群空间分析图模板" height="360">
 
-![建筑/城市/景观人群空间分析图模板](images/078-raw_20260423_xiaohongshu_template_002-extra-3.webp)
+<img src="images/078-raw_20260423_xiaohongshu_template_002-extra-3.webp" alt="建筑/城市/景观人群空间分析图模板" height="360">
 
 </details>
 
@@ -1251,15 +1251,15 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 84. Image2实测｜方案生成人群空间分析（附提示词
 
-![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001.webp)
+<img src="images/084-raw_20260424_xiaohongshu_template_001.webp" alt="Image2实测｜方案生成人群空间分析（附提示词" height="360">
 
 <details><summary>更多图片</summary>
 
-![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-1.webp)
+<img src="images/084-raw_20260424_xiaohongshu_template_001-extra-1.webp" alt="Image2实测｜方案生成人群空间分析（附提示词" height="360">
 
-![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-2.webp)
+<img src="images/084-raw_20260424_xiaohongshu_template_001-extra-2.webp" alt="Image2实测｜方案生成人群空间分析（附提示词" height="360">
 
-![Image2实测｜方案生成人群空间分析（附提示词](images/084-raw_20260424_xiaohongshu_template_001-extra-3.webp)
+<img src="images/084-raw_20260424_xiaohongshu_template_001-extra-3.webp" alt="Image2实测｜方案生成人群空间分析（附提示词" height="360">
 
 </details>
 
@@ -1284,7 +1284,7 @@ Create the most detailed infographic ever made about how a modern FPSO is design
 
 ### 7. Summer Outfit Editorial Collage
 
-![Summer Outfit Editorial Collage](images/007-raw_20260423_reddit_prompt_003.png)
+<img src="images/007-raw_20260423_reddit_prompt_003.png" alt="Summer Outfit Editorial Collage" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1298,7 +1298,7 @@ Freeform fashion-editorial collage of me in 8 distinct full-body summer outfits,
 
 ### 76. Visual Polyglot Magazine Collage
 
-![Visual Polyglot Magazine Collage](images/076-raw_20260423_x_prompt_008.jpg)
+<img src="images/076-raw_20260423_x_prompt_008.jpg" alt="Visual Polyglot Magazine Collage" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1328,15 +1328,15 @@ Avoid a beige tint of the overall style, since we want vibrant elements to be vi
 
 ### 8. Monochrome Sports Mosaic Tribute Poster
 
-![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031.jpg)
+<img src="images/008-raw_20260423_promptgather_prompt_031.jpg" alt="Monochrome Sports Mosaic Tribute Poster" height="360">
 
 <details><summary>更多图片</summary>
 
-![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-1.jpg)
+<img src="images/008-raw_20260423_promptgather_prompt_031-extra-1.jpg" alt="Monochrome Sports Mosaic Tribute Poster" height="360">
 
-![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-2.jpg)
+<img src="images/008-raw_20260423_promptgather_prompt_031-extra-2.jpg" alt="Monochrome Sports Mosaic Tribute Poster" height="360">
 
-![Monochrome Sports Mosaic Tribute Poster](images/008-raw_20260423_promptgather_prompt_031-extra-3.jpg)
+<img src="images/008-raw_20260423_promptgather_prompt_031-extra-3.jpg" alt="Monochrome Sports Mosaic Tribute Poster" height="360">
 
 </details>
 
@@ -1372,15 +1372,15 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ### 10. Innovative Hand-Drawn Packaging Concepts for Modern Products
 
-![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070.jpg)
+<img src="images/010-raw_20260423_promptgather_prompt_070.jpg" alt="Innovative Hand-Drawn Packaging Concepts for Modern Products" height="360">
 
 <details><summary>更多图片</summary>
 
-![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-1.jpg)
+<img src="images/010-raw_20260423_promptgather_prompt_070-extra-1.jpg" alt="Innovative Hand-Drawn Packaging Concepts for Modern Products" height="360">
 
-![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-2.jpg)
+<img src="images/010-raw_20260423_promptgather_prompt_070-extra-2.jpg" alt="Innovative Hand-Drawn Packaging Concepts for Modern Products" height="360">
 
-![Innovative Hand-Drawn Packaging Concepts for Modern Products](images/010-raw_20260423_promptgather_prompt_070-extra-3.jpg)
+<img src="images/010-raw_20260423_promptgather_prompt_070-extra-3.jpg" alt="Innovative Hand-Drawn Packaging Concepts for Modern Products" height="360">
 
 </details>
 
@@ -1430,7 +1430,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 ### 20. No portrait today but something different.
 
-![No portrait today but something different.](images/020-raw_20260424_x_prompt_027.jpg)
+<img src="images/020-raw_20260424_x_prompt_027.jpg" alt="No portrait today but something different." height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1444,17 +1444,17 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ### 21. 诗歌印象海报 Prompt
 
-![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008.webp)
+<img src="images/021-raw_20260423_xiaohongshu_prompt_008.webp" alt="诗歌印象海报 Prompt" height="360">
 
 <details><summary>更多图片</summary>
 
-![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-1.webp)
+<img src="images/021-raw_20260423_xiaohongshu_prompt_008-extra-1.webp" alt="诗歌印象海报 Prompt" height="360">
 
-![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-2.webp)
+<img src="images/021-raw_20260423_xiaohongshu_prompt_008-extra-2.webp" alt="诗歌印象海报 Prompt" height="360">
 
-![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-3.webp)
+<img src="images/021-raw_20260423_xiaohongshu_prompt_008-extra-3.webp" alt="诗歌印象海报 Prompt" height="360">
 
-![诗歌印象海报 Prompt](images/021-raw_20260423_xiaohongshu_prompt_008-extra-4.webp)
+<img src="images/021-raw_20260423_xiaohongshu_prompt_008-extra-4.webp" alt="诗歌印象海报 Prompt" height="360">
 
 </details>
 
@@ -1471,7 +1471,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ### 31. 极简新中式 S 形海报
 
-![极简新中式 S 形海报](images/031-raw_20260423_gptimg2-ai_prompt_024.jpg)
+<img src="images/031-raw_20260423_gptimg2-ai_prompt_024.jpg" alt="极简新中式 S 形海报" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1485,7 +1485,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ### 35. GPT-image-2 test (duct-tape-1)
 
-![GPT-image-2 test (duct-tape-1)](images/035-raw_20260424_x_prompt_005.jpg)
+<img src="images/035-raw_20260424_x_prompt_005.jpg" alt="GPT-image-2 test (duct-tape-1)" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1499,15 +1499,15 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 57. Sagittarius Dissection: A Steampunk Exploration
 
-![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068.jpg)
+<img src="images/057-raw_20260423_promptgather_prompt_068.jpg" alt="Sagittarius Dissection: A Steampunk Exploration" height="360">
 
 <details><summary>更多图片</summary>
 
-![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-1.jpg)
+<img src="images/057-raw_20260423_promptgather_prompt_068-extra-1.jpg" alt="Sagittarius Dissection: A Steampunk Exploration" height="360">
 
-![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-2.jpg)
+<img src="images/057-raw_20260423_promptgather_prompt_068-extra-2.jpg" alt="Sagittarius Dissection: A Steampunk Exploration" height="360">
 
-![Sagittarius Dissection: A Steampunk Exploration](images/057-raw_20260423_promptgather_prompt_068-extra-3.jpg)
+<img src="images/057-raw_20260423_promptgather_prompt_068-extra-3.jpg" alt="Sagittarius Dissection: A Steampunk Exploration" height="360">
 
 </details>
 
@@ -1523,11 +1523,11 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 58. The Eight Immortals in Timeless Detail
 
-![The Eight Immortals in Timeless Detail](images/058-raw_20260423_promptgather_prompt_057.jpg)
+<img src="images/058-raw_20260423_promptgather_prompt_057.jpg" alt="The Eight Immortals in Timeless Detail" height="360">
 
 <details><summary>更多图片</summary>
 
-![The Eight Immortals in Timeless Detail](images/058-raw_20260423_promptgather_prompt_057-extra-1.jpg)
+<img src="images/058-raw_20260423_promptgather_prompt_057-extra-1.jpg" alt="The Eight Immortals in Timeless Detail" height="360">
 
 </details>
 
@@ -1543,7 +1543,7 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 59. 小悪魔リリムリリィ 游戏海报
 
-![小悪魔リリムリリィ 游戏海报](images/059-raw_20260423_xiaohongshu_prompt_002.webp)
+<img src="images/059-raw_20260423_xiaohongshu_prompt_002.webp" alt="小悪魔リリムリリィ 游戏海报" height="360">
 
 <details><summary>提示词 · 日文</summary>
 
@@ -1557,13 +1557,13 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 69. 西楚霸王·项羽 双重曝光史诗海报
 
-![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009.webp)
+<img src="images/069-raw_20260423_xiaohongshu_prompt_009.webp" alt="西楚霸王·项羽 双重曝光史诗海报" height="360">
 
 <details><summary>更多图片</summary>
 
-![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009-extra-1.webp)
+<img src="images/069-raw_20260423_xiaohongshu_prompt_009-extra-1.webp" alt="西楚霸王·项羽 双重曝光史诗海报" height="360">
 
-![西楚霸王·项羽 双重曝光史诗海报](images/069-raw_20260423_xiaohongshu_prompt_009-extra-2.webp)
+<img src="images/069-raw_20260423_xiaohongshu_prompt_009-extra-2.webp" alt="西楚霸王·项羽 双重曝光史诗海报" height="360">
 
 </details>
 
@@ -1583,7 +1583,7 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 73. 阿马尔菲海岸复古旅行海报
 
-![阿马尔菲海岸复古旅行海报](images/073-raw_20260423_gptimg2-ai_prompt_032.jpg)
+<img src="images/073-raw_20260423_gptimg2-ai_prompt_032.jpg" alt="阿马尔菲海岸复古旅行海报" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1597,11 +1597,11 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 82. Celestial Harmony: The Eastern Fantasy Warrior
 
-![Celestial Harmony: The Eastern Fantasy Warrior](images/082-raw_20260423_promptgather_prompt_047.jpg)
+<img src="images/082-raw_20260423_promptgather_prompt_047.jpg" alt="Celestial Harmony: The Eastern Fantasy Warrior" height="360">
 
 <details><summary>更多图片</summary>
 
-![Celestial Harmony: The Eastern Fantasy Warrior](images/082-raw_20260423_promptgather_prompt_047-extra-1.jpg)
+<img src="images/082-raw_20260423_promptgather_prompt_047-extra-1.jpg" alt="Celestial Harmony: The Eastern Fantasy Warrior" height="360">
 
 </details>
 
@@ -1628,11 +1628,11 @@ Create a movie poster for a film where a gorilla blends into a human city and th
 
 ### 92. A Journey Through Time: The Astronaut in 20 Art Styles
 
-![A Journey Through Time: The Astronaut in 20 Art Styles](images/092-raw_20260423_promptgather_prompt_072.jpg)
+<img src="images/092-raw_20260423_promptgather_prompt_072.jpg" alt="A Journey Through Time: The Astronaut in 20 Art Styles" height="360">
 
 <details><summary>更多图片</summary>
 
-![A Journey Through Time: The Astronaut in 20 Art Styles](images/092-raw_20260423_promptgather_prompt_072-extra-1.jpg)
+<img src="images/092-raw_20260423_promptgather_prompt_072-extra-1.jpg" alt="A Journey Through Time: The Astronaut in 20 Art Styles" height="360">
 
 </details>
 
@@ -1648,15 +1648,15 @@ Pick a fictional female astronaut: Depict the same fictional female astronaut ch
 
 ### 97. Noir Ink Dissolve Portrait with Red Halo
 
-![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040.jpg)
+<img src="images/097-raw_20260423_promptgather_prompt_040.jpg" alt="Noir Ink Dissolve Portrait with Red Halo" height="360">
 
 <details><summary>更多图片</summary>
 
-![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-1.jpg)
+<img src="images/097-raw_20260423_promptgather_prompt_040-extra-1.jpg" alt="Noir Ink Dissolve Portrait with Red Halo" height="360">
 
-![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-2.jpg)
+<img src="images/097-raw_20260423_promptgather_prompt_040-extra-2.jpg" alt="Noir Ink Dissolve Portrait with Red Halo" height="360">
 
-![Noir Ink Dissolve Portrait with Red Halo](images/097-raw_20260423_promptgather_prompt_040-extra-3.jpg)
+<img src="images/097-raw_20260423_promptgather_prompt_040-extra-3.jpg" alt="Noir Ink Dissolve Portrait with Red Halo" height="360">
 
 </details>
 
@@ -1698,7 +1698,7 @@ Aspect ratio is 9:16
 
 ### 11. Japanese Shonen Manga Sample Page
 
-![Japanese Shonen Manga Sample Page](images/011-raw_20260423_x_prompt_006.jpg)
+<img src="images/011-raw_20260423_x_prompt_006.jpg" alt="Japanese Shonen Manga Sample Page" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1714,7 +1714,7 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 
 ### 18. 博物馆风汉服拆解信息图
 
-![博物馆风汉服拆解信息图](images/018-raw_20260423_gptimg2-ai_prompt_045.jpg)
+<img src="images/018-raw_20260423_gptimg2-ai_prompt_045.jpg" alt="博物馆风汉服拆解信息图" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1741,7 +1741,7 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 
 ### 33. Chinese Text Manga About GPT Image 2
 
-![Chinese Text Manga About GPT Image 2](images/033-raw_20260423_x_prompt_007.jpg)
+<img src="images/033-raw_20260423_x_prompt_007.jpg" alt="Chinese Text Manga About GPT Image 2" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1757,11 +1757,11 @@ Additional Instructions: Use vertical 1440x2560 image layout, with first row abo
 
 ### 62. The Journey of Creation in Three Acts
 
-![The Journey of Creation in Three Acts](images/062-raw_20260423_promptgather_prompt_005.jpg)
+<img src="images/062-raw_20260423_promptgather_prompt_005.jpg" alt="The Journey of Creation in Three Acts" height="360">
 
 <details><summary>更多图片</summary>
 
-![The Journey of Creation in Three Acts](images/062-raw_20260423_promptgather_prompt_005-extra-1.jpg)
+<img src="images/062-raw_20260423_promptgather_prompt_005-extra-1.jpg" alt="The Journey of Creation in Three Acts" height="360">
 
 </details>
 
@@ -1779,7 +1779,7 @@ Additional Instructions: Use vertical 1440x2560 image layout, with first row abo
 
 ### 12. Kawaii Culture: A Sticker Sheet Journey
 
-![Kawaii Culture: A Sticker Sheet Journey](images/012-raw_20260423_promptgather_prompt_053.jpg)
+<img src="images/012-raw_20260423_promptgather_prompt_053.jpg" alt="Kawaii Culture: A Sticker Sheet Journey" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1793,7 +1793,7 @@ Design a cute kawaii sticker pack featuring famous things from [COUNTRY], includ
 
 ### 43. 涂鸦速写风 AI Builder Prompt
 
-![涂鸦速写风 AI Builder Prompt](images/043-raw_20260423_xiaohongshu_prompt_001.webp)
+<img src="images/043-raw_20260423_xiaohongshu_prompt_001.webp" alt="涂鸦速写风 AI Builder Prompt" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1809,7 +1809,7 @@ Design a cute kawaii sticker pack featuring famous things from [COUNTRY], includ
 
 ### 13. Fragmented Thoughts in Cosmic Reflection
 
-![Fragmented Thoughts in Cosmic Reflection](images/013-raw_20260423_promptgather_prompt_067.jpg)
+<img src="images/013-raw_20260423_promptgather_prompt_067.jpg" alt="Fragmented Thoughts in Cosmic Reflection" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1823,11 +1823,11 @@ Design a cute kawaii sticker pack featuring famous things from [COUNTRY], includ
 
 ### 44. Tesla Optimus: Manga Meets Reality
 
-![Tesla Optimus: Manga Meets Reality](images/044-raw_20260423_promptgather_prompt_006.jpg)
+<img src="images/044-raw_20260423_promptgather_prompt_006.jpg" alt="Tesla Optimus: Manga Meets Reality" height="360">
 
 <details><summary>更多图片</summary>
 
-![Tesla Optimus: Manga Meets Reality](images/044-raw_20260423_promptgather_prompt_006-extra-1.jpg)
+<img src="images/044-raw_20260423_promptgather_prompt_006-extra-1.jpg" alt="Tesla Optimus: Manga Meets Reality" height="360">
 
 </details>
 
@@ -1844,7 +1844,7 @@ do this for Tesla Optimus Robot
 
 ### 53. Isometric Weather Miniature of Shanghai Skyline
 
-![Isometric Weather Miniature of Shanghai Skyline](images/053-raw_20260423_promptgather_prompt_056.jpg)
+<img src="images/053-raw_20260423_promptgather_prompt_056.jpg" alt="Isometric Weather Miniature of Shanghai Skyline" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -1869,7 +1869,7 @@ City name:【上海】
 
 ### 67. A Tapestry of Cultures: 16x16 Historical Showcase
 
-![A Tapestry of Cultures: 16x16 Historical Showcase](images/067-raw_20260423_promptgather_prompt_032.jpg)
+<img src="images/067-raw_20260423_promptgather_prompt_032.jpg" alt="A Tapestry of Cultures: 16x16 Historical Showcase" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1885,11 +1885,11 @@ Create a 16×16 grid with  equal cells, each showing a different culture, civili
 
 ### 70. Radiant Elegance: A Portrait of Confidence
 
-![Radiant Elegance: A Portrait of Confidence](images/070-raw_20260423_promptgather_prompt_020.jpg)
+<img src="images/070-raw_20260423_promptgather_prompt_020.jpg" alt="Radiant Elegance: A Portrait of Confidence" height="360">
 
 <details><summary>更多图片</summary>
 
-![Radiant Elegance: A Portrait of Confidence](images/070-raw_20260423_promptgather_prompt_020-extra-1.jpg)
+<img src="images/070-raw_20260423_promptgather_prompt_020-extra-1.jpg" alt="Radiant Elegance: A Portrait of Confidence" height="360">
 
 </details>
 
@@ -1907,17 +1907,17 @@ Create a 16×16 grid with  equal cells, each showing a different culture, civili
 
 ### 29. Virtual try-on through openai/gpt-image-2/edit
 
-![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004.png)
+<img src="images/029-raw_20260423_fal_prompt_004.png" alt="Virtual try-on through openai/gpt-image-2/edit" height="360">
 
 <details><summary>更多图片</summary>
 
-![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-1.png)
+<img src="images/029-raw_20260423_fal_prompt_004-extra-1.png" alt="Virtual try-on through openai/gpt-image-2/edit" height="360">
 
-![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-2.png)
+<img src="images/029-raw_20260423_fal_prompt_004-extra-2.png" alt="Virtual try-on through openai/gpt-image-2/edit" height="360">
 
-![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-3.png)
+<img src="images/029-raw_20260423_fal_prompt_004-extra-3.png" alt="Virtual try-on through openai/gpt-image-2/edit" height="360">
 
-![Virtual try-on through openai/gpt-image-2/edit](images/029-raw_20260423_fal_prompt_004-extra-4.png)
+<img src="images/029-raw_20260423_fal_prompt_004-extra-4.png" alt="Virtual try-on through openai/gpt-image-2/edit" height="360">
 
 </details>
 
@@ -1943,7 +1943,7 @@ Do not add jewelry, bags, text, or logos.
 
 ### 36. Mobile app onboarding screen
 
-![Mobile app onboarding screen](images/036-raw_20260423_fal_prompt_008.jpg)
+<img src="images/036-raw_20260423_fal_prompt_008.jpg" alt="Mobile app onboarding screen" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1966,7 +1966,7 @@ No watermark. No real app branding.
 
 ### 37. Epic Actor Career Poster Template
 
-![Epic Actor Career Poster Template](images/037-raw_20260423_x_template_001.jpg)
+<img src="images/037-raw_20260423_x_template_001.jpg" alt="Epic Actor Career Poster Template" height="360">
 
 <details><summary>模板 · 英文</summary>
 
@@ -1982,7 +1982,7 @@ Create an epic poster showcasing the most iconic moments of (actors name) career
 
 ### 46. Charming 3D Miniature: Starbucks Store Delight
 
-![Charming 3D Miniature: Starbucks Store Delight](images/046-raw_20260423_promptgather_prompt_051.jpg)
+<img src="images/046-raw_20260423_promptgather_prompt_051.jpg" alt="Charming 3D Miniature: Starbucks Store Delight" height="360">
 
 <details><summary>提示词 · 英文</summary>
 
@@ -1998,15 +1998,15 @@ Brand name: Starbucks
 
 ### 79. Print-Ready AI Packaging System for Yogurt Brand Concept
 
-![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049.jpg)
+<img src="images/079-raw_20260423_promptgather_prompt_049.jpg" alt="Print-Ready AI Packaging System for Yogurt Brand Concept" height="360">
 
 <details><summary>更多图片</summary>
 
-![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-1.jpg)
+<img src="images/079-raw_20260423_promptgather_prompt_049-extra-1.jpg" alt="Print-Ready AI Packaging System for Yogurt Brand Concept" height="360">
 
-![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-2.jpg)
+<img src="images/079-raw_20260423_promptgather_prompt_049-extra-2.jpg" alt="Print-Ready AI Packaging System for Yogurt Brand Concept" height="360">
 
-![Print-Ready AI Packaging System for Yogurt Brand Concept](images/079-raw_20260423_promptgather_prompt_049-extra-3.jpg)
+<img src="images/079-raw_20260423_promptgather_prompt_049-extra-3.jpg" alt="Print-Ready AI Packaging System for Yogurt Brand Concept" height="360">
 
 </details>
 
@@ -2049,7 +2049,7 @@ yönetebiliriz"
 
 ### 55. Hand-drawn Infographic Card Template
 
-![Hand-drawn Infographic Card Template](images/055-raw_20260423_x_template_005.jpg)
+<img src="images/055-raw_20260423_x_template_005.jpg" alt="Hand-drawn Infographic Card Template" height="360">
 
 <details><summary>模板 · 英文</summary>
 
@@ -2072,7 +2072,7 @@ Theme: {topic}
 
 ### 64. 无冠手表密封盒
 
-![无冠手表密封盒](images/064-raw_20260423_gptimg2-ai_prompt_029.jpg)
+<img src="images/064-raw_20260423_gptimg2-ai_prompt_029.jpg" alt="无冠手表密封盒" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -2094,7 +2094,7 @@ Theme: {topic}
 
 ### 88. 35mm 闪光灯编辑肖像
 
-![35mm 闪光灯编辑肖像](images/088-raw_20260423_gptimg2-ai_prompt_004.jpg)
+<img src="images/088-raw_20260423_gptimg2-ai_prompt_004.jpg" alt="35mm 闪光灯编辑肖像" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
@@ -2110,17 +2110,17 @@ Theme: {topic}
 
 ### 66. 中国城市宣传海报通用模板
 
-![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001.webp)
+<img src="images/066-raw_20260423_xiaohongshu_template_001.webp" alt="中国城市宣传海报通用模板" height="360">
 
 <details><summary>更多图片</summary>
 
-![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-1.webp)
+<img src="images/066-raw_20260423_xiaohongshu_template_001-extra-1.webp" alt="中国城市宣传海报通用模板" height="360">
 
-![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-2.webp)
+<img src="images/066-raw_20260423_xiaohongshu_template_001-extra-2.webp" alt="中国城市宣传海报通用模板" height="360">
 
-![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-3.webp)
+<img src="images/066-raw_20260423_xiaohongshu_template_001-extra-3.webp" alt="中国城市宣传海报通用模板" height="360">
 
-![中国城市宣传海报通用模板](images/066-raw_20260423_xiaohongshu_template_001-extra-4.webp)
+<img src="images/066-raw_20260423_xiaohongshu_template_001-extra-4.webp" alt="中国城市宣传海报通用模板" height="360">
 
 </details>
 
@@ -2138,7 +2138,7 @@ Theme: {topic}
 
 ### 95. 无盖香水瓶
 
-![无盖香水瓶](images/095-raw_20260423_gptimg2-ai_prompt_007.jpg)
+<img src="images/095-raw_20260423_gptimg2-ai_prompt_007.jpg" alt="无盖香水瓶" height="360">
 
 <details><summary>提示词 · 中文</summary>
 
