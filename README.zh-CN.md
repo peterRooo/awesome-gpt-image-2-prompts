@@ -4,11 +4,11 @@
 
 [English version](README.md)
 
-这里收录了来自 GptImageLab 的 100 条 GPT Image 2 提示词和可复用模板，覆盖 AI 图片生成、图片编辑、海报设计、人像摄影、信息图、UI 原型、3D 场景和产品视觉等高频创作场景。图片默认直接展示，可复制的提示词文本折叠在每个案例下方。GPT Image 2 提示词库会持续更新，最新提示词、案例和灵感请访问 [gptimagelab.com](https://gptimagelab.com)。
+这里收录了来自 GptImageLab 的 GPT Image 2 提示词和可复用模板，覆盖 AI 图片生成、图片编辑、海报设计、人像摄影、信息图、UI 原型、3D 场景和产品视觉等高频创作场景。图片默认直接展示，可复制的提示词文本折叠在每个案例下方。GPT Image 2 提示词库会持续更新，最新提示词、案例和灵感请访问 [gptimagelab.com](https://gptimagelab.com)。
 
 ## 亮点
 
-- 仓库内包含 100 个带图提示词案例
+- 收录来自 GptImageLab 的带图 GPT Image 2 提示词案例
 - 图片默认外显，提示词内容折叠，方便先看效果
 - 覆盖英文、中文、日文等真实提示词写法
 - 包含人像、海报、信息图、UI 原型、3D 场景、包装等类型
