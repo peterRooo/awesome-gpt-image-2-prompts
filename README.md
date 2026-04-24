@@ -4,7 +4,7 @@ Want more GPT Image 2 prompts and examples? Visit [gptimagelab.com](https://gpti
 
 [中文版本](README.zh-CN.md)
 
-A curated sample of 100 GPT Image 2 prompts and reusable templates, randomly selected from the current GPT Image Lab prompt collection. Images are shown directly; the copy-ready prompt text is folded under each example.
+A curated collection of 100 GPT Image 2 prompts and reusable templates from GptImageLab, built for AI image generation, image editing, posters, portraits, infographics, UI mockups, 3D scenes, and product visuals. Images are shown directly; the copy-ready prompt text is folded under each example. The GPT Image 2 prompt library is continuously updated — visit [gptimagelab.com](https://gptimagelab.com) for the latest prompts, examples, and inspiration.
 
 ## Highlights
 
@@ -2164,8 +2164,8 @@ The same 100 selected entries are available as structured JSON in [`data/prompts
 
 ## More
 
-For a larger searchable gallery, prompt examples, and GPT Image 2 inspiration, visit [gptimagelab.com](https://gptimagelab.com).
+For the latest GPT Image 2 prompts, searchable examples, AI image generation ideas, and updated prompt templates, visit [gptimagelab.com](https://gptimagelab.com).
 
 ## Attribution
 
-Prompts and images are collected from the project owner's current local prompt dataset. When author or source metadata exists, it is shown under each prompt. Please respect original platform and creator terms when reusing examples.
+Prompts and images are sourced from the GptImageLab GPT Image 2 prompt library. When author or source metadata exists, it is shown under each prompt. Please respect original platform and creator terms when reusing examples.

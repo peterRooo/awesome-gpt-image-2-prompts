@@ -4,7 +4,7 @@
 
 [English version](README.md)
 
-这里收录了从 GPT Image Lab 当前提示词库中随机抽取的 100 条 GPT Image 2 提示词和可复用模板。图片默认直接展示，可复制的提示词文本折叠在每个案例下方。
+这里收录了来自 GptImageLab 的 100 条 GPT Image 2 提示词和可复用模板，覆盖 AI 图片生成、图片编辑、海报设计、人像摄影、信息图、UI 原型、3D 场景和产品视觉等高频创作场景。图片默认直接展示，可复制的提示词文本折叠在每个案例下方。GPT Image 2 提示词库会持续更新，最新提示词、案例和灵感请访问 [gptimagelab.com](https://gptimagelab.com)。
 
 ## 亮点
 
@@ -2164,8 +2164,8 @@ Theme: {topic}
 
 ## 更多内容
 
-如需更完整的可搜索图库、提示词示例和 GPT Image 2 灵感，请访问 [gptimagelab.com](https://gptimagelab.com)。
+如需最新 GPT Image 2 提示词、可搜索案例、AI 图片生成灵感和持续更新的提示词模板，请访问 [gptimagelab.com](https://gptimagelab.com)。
 
 ## 归属说明
 
-这些提示词和图片来自项目所有者当前本地提示词数据集。凡是本地数据里包含作者或来源信息的条目，均已在对应提示词下方展示。复用时请尊重原平台和创作者规则。
+这些提示词和图片来源于 GptImageLab 的 GPT Image 2 提示词库。凡是本地数据里包含作者或来源信息的条目，均已在对应提示词下方展示。复用时请尊重原平台和创作者规则。
