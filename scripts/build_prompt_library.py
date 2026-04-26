@@ -3,13 +3,17 @@ import csv
 import hashlib
 import json
 import re
+import shutil
 from pathlib import Path
+
+from PIL import Image, ImageOps
 
 
 ROOT = Path(__file__).resolve().parents[1]
 CRAWL_ROOT = ROOT.parent / "crawl"
 CLEANED_ROOT = CRAWL_ROOT / "output" / "cleaned_data"
 IMAGE_DIR = ROOT / "images"
+PREVIEW_DIR = ROOT / "previews"
 DATA_DIR = ROOT / "data"
 TARGET_COUNT = 500
 R2_DEV_BASE = "https://pub-911e4fa03f0c4323a80d8f3dc99d1c7f.r2.dev/"
@@ -146,9 +150,29 @@ def load_prompt_rows():
     return items[:TARGET_COUNT]
 
 
-def attach_preview_images(items):
-    for item in items:
-        item["image"] = item["image_url"]
+def build_preview_images(items):
+    if PREVIEW_DIR.exists():
+        shutil.rmtree(PREVIEW_DIR)
+    PREVIEW_DIR.mkdir(parents=True, exist_ok=True)
+
+    for index, item in enumerate(items, 1):
+        source = item["image_path"]
+        name = f"{index:03d}-{slug(source.stem, item['id'])}.jpg"
+        dest = PREVIEW_DIR / name
+
+        with Image.open(source) as image:
+            image = ImageOps.exif_transpose(image)
+            image.thumbnail((720, 720))
+            if image.mode in ("RGBA", "LA"):
+                background = Image.new("RGB", image.size, (255, 255, 255))
+                background.paste(image, mask=image.getchannel("A"))
+                image = background
+            else:
+                image = image.convert("RGB")
+            image.save(dest, "JPEG", quality=74, optimize=True, progressive=True)
+
+        item["image"] = f"previews/{name}"
+        item["image_url"] = item["image_url"] or item["image"]
         del item["image_path"]
 
 
@@ -242,7 +266,7 @@ def build_readme(items):
         "",
         "## Why this repo",
         "",
-        "- **500 copy-ready GPT Image 2 prompts** with CDN-backed preview images.",
+        "- **500 copy-ready GPT Image 2 prompts** with repository-hosted preview images.",
         "- **Professional browsing layout** with categories, compact details, and direct source attribution.",
         "- **Continuously refreshed upstream library** on [GptImageLab](https://gptimagelab.com), where new prompts are added daily.",
         "- **Machine-readable exports** available in [`data/gpt-image-2-prompts.json`](data/gpt-image-2-prompts.json) and [`data/gpt-image-2-prompts.csv`](data/gpt-image-2-prompts.csv).",
@@ -306,7 +330,7 @@ def build_readme_zh(items):
         "",
         "## 仓库亮点",
         "",
-        "- **500 条可直接复制的 GPT Image 2 提示词**，并附带 CDN 预览图。",
+        "- **500 条可直接复制的 GPT Image 2 提示词**，并附带仓库内预览图。",
         "- **更专业的 README 排版**：分类索引、折叠提示词、来源信息清晰展示。",
         "- **网站持续更新**：[GptImageLab](https://gptimagelab.com) 每天补充新的提示词与模板。",
         "- **结构化数据导出**：[`data/gpt-image-2-prompts.json`](data/gpt-image-2-prompts.json) 与 [`data/gpt-image-2-prompts.csv`](data/gpt-image-2-prompts.csv)。",
@@ -352,7 +376,7 @@ def main():
     items = load_prompt_rows()
     if len(items) < TARGET_COUNT:
         raise SystemExit(f"only found {len(items)} usable prompts")
-    attach_preview_images(items)
+    build_preview_images(items)
     write_data(items)
     (ROOT / "README.md").write_text(build_readme(items), encoding="utf-8")
     (ROOT / "README.zh-CN.md").write_text(build_readme_zh(items), encoding="utf-8")
