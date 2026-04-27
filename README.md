@@ -18,12 +18,12 @@ A polished, image-backed prompt library for **GPT Image 2** creators, designers,
 | Metric | Count |
 | --- | ---: |
 | Repository prompts | **500** |
-| Website total prompt library | **2,985** |
-| Website prompts | **1,060** |
-| Website templates | **1,925** |
-| New website items on 2026-04-26 | **+703** |
+| Website total prompt library | **3,380** |
+| Website prompts | **1,207** |
+| Website templates | **2,173** |
+| New website items on 2026-04-27 | **+395** |
 
-> The website added **+703** new prompt-library items on **2026-04-26**: **+443** prompts and **+260** templates.
+> The website added **+395** new prompt-library items on **2026-04-27**: **+147** prompts and **+248** templates.
 
 ## Why this repo
 
