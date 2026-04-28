@@ -15,19 +15,20 @@ CLEANED_ROOT = CRAWL_ROOT / "output" / "cleaned_data"
 IMAGE_DIR = ROOT / "images"
 PREVIEW_DIR = ROOT / "previews"
 DATA_DIR = ROOT / "data"
-TARGET_COUNT = 500
+TARGET_COUNT = 550
+DAILY_REPO_PROMPT_ADDITION = 50
 R2_DEV_BASE = "https://pub-911e4fa03f0c4323a80d8f3dc99d1c7f.r2.dev/"
 CDN_BASE = "https://cdn.gptimagelab.com/"
 
 WEBSITE_URL = "https://gptimagelab.com"
 REPO = "peterRooo/awesome-gpt-image-2-prompts"
-WEBSITE_TOTAL_ITEMS = 3380
-WEBSITE_PROMPTS = 1207
-WEBSITE_TEMPLATES = 2173
-DAILY_NEW_ITEMS = 395
-DAILY_NEW_PROMPTS = 147
-DAILY_NEW_TEMPLATES = 248
-DAILY_DATE = "2026-04-27"
+WEBSITE_TOTAL_ITEMS = 3738
+WEBSITE_PROMPTS = 1378
+WEBSITE_TEMPLATES = 2360
+DAILY_NEW_ITEMS = 358
+DAILY_NEW_PROMPTS = 171
+DAILY_NEW_TEMPLATES = 187
+DAILY_DATE = "2026-04-28"
 
 
 CATEGORY_LABELS = {
@@ -104,7 +105,9 @@ def find_dates():
 
 def load_prompt_rows():
     items = []
-    seen = set()
+    seen_titles = set()
+    seen_prompts = set()
+    seen_images = set()
     for date in find_dates():
         csv_path = CLEANED_ROOT / date / "prompts.csv"
         if not csv_path.exists():
@@ -115,14 +118,23 @@ def load_prompt_rows():
                 image_path = Path(clean(row.get("primary_local_image_path", "")))
                 if not prompt or not image_path.exists():
                     continue
-                key = (md5_text(prompt), md5_file(image_path))
-                if key in seen:
+                title = clean(row.get("title", "")) or "GPT Image 2 Prompt"
+                title_key = re.sub(r"\s+", " ", title.strip()).lower()
+                prompt_key = md5_text(prompt)
+                image_key = md5_file(image_path)
+                if (
+                    title_key in seen_titles
+                    or prompt_key in seen_prompts
+                    or image_key in seen_images
+                ):
                     continue
-                seen.add(key)
+                seen_titles.add(title_key)
+                seen_prompts.add(prompt_key)
+                seen_images.add(image_key)
                 item = {
                     "id": row.get("id", ""),
                     "source_record_id": row.get("source_record_id", ""),
-                    "title": clean(row.get("title", "")) or "GPT Image 2 Prompt",
+                    "title": title,
                     "category": category_label(row.get("use_case", "")),
                     "language": clean(row.get("language", "")) or "en",
                     "quality_grade": clean(row.get("quality_grade", "")),
@@ -147,7 +159,14 @@ def load_prompt_rows():
             item["title"],
         )
     )
-    return items[:TARGET_COUNT]
+    daily_items = [item for item in items if item["date"] == DAILY_DATE]
+    previous_items = [item for item in items if item["date"] != DAILY_DATE]
+    selected_daily = daily_items[:DAILY_REPO_PROMPT_ADDITION]
+    selected_daily_ids = {item["id"] for item in selected_daily}
+    selected_previous = [
+        item for item in previous_items if item["id"] not in selected_daily_ids
+    ][: TARGET_COUNT - len(selected_daily)]
+    return selected_previous + selected_daily
 
 
 def build_preview_images(items):
@@ -266,7 +285,7 @@ def build_readme(items):
         "",
         "## Why this repo",
         "",
-        "- **500 copy-ready GPT Image 2 prompts** with repository-hosted preview images.",
+        f"- **{TARGET_COUNT} copy-ready GPT Image 2 prompts** with repository-hosted preview images.",
         "- **Professional browsing layout** with categories, compact details, and direct source attribution.",
         "- **Continuously refreshed upstream library** on [GptImageLab](https://gptimagelab.com), where new prompts are added daily.",
         "- **Machine-readable exports** available in [`data/gpt-image-2-prompts.json`](data/gpt-image-2-prompts.json) and [`data/gpt-image-2-prompts.csv`](data/gpt-image-2-prompts.csv).",
@@ -330,7 +349,7 @@ def build_readme_zh(items):
         "",
         "## 仓库亮点",
         "",
-        "- **500 条可直接复制的 GPT Image 2 提示词**，并附带仓库内预览图。",
+        f"- **{TARGET_COUNT} 条可直接复制的 GPT Image 2 提示词**，并附带仓库内预览图。",
         "- **更专业的 README 排版**：分类索引、折叠提示词、来源信息清晰展示。",
         "- **网站持续更新**：[GptImageLab](https://gptimagelab.com) 每天补充新的提示词与模板。",
         "- **结构化数据导出**：[`data/gpt-image-2-prompts.json`](data/gpt-image-2-prompts.json) 与 [`data/gpt-image-2-prompts.csv`](data/gpt-image-2-prompts.csv)。",
